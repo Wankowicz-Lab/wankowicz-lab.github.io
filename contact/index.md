@@ -1,5 +1,5 @@
 ---
-title: Contact the Fraser Lab
+title: Contact the Wankowicz Lab
 layout: default
 group: contact
 ---
