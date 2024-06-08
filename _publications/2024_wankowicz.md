@@ -1,6 +1,6 @@
 ---
 title: "AlphaFold3 Transparency and Reproducibility"
-authors: "**Wankowicz SA**, Beltrao P, Cravatt B, Dunbrack R, Gitter A, Lindorff-Larsen K, Ovchinnikov S, Polizzi N, Shoichet B, **Fraser JS**"
+authors: "**Wankowicz SA**, Beltrao P, Cravatt B, Dunbrack R, Gitter A, Lindorff-Larsen K, Ovchinnikov S, Polizzi N, Shoichet B, Fraser JS"
 pub_date: "2024-04-11" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/img/pub/2024_wankowicz.png" #Minimum dimensions TBD
 pmid: 
