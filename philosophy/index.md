@@ -4,7 +4,7 @@ layout: default
 group: philosophy
 ---
 
-<div style="margin-top: 20px;">
+<div style="margin-top: 100px;">
 </div>
 
 
