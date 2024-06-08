@@ -1,5 +1,5 @@
 ---
-title: Fraser Lab Compact, Philosophy, and Resources
+title: Wankowicz Lab Philosophy
 layout: default
 group: philosophy
 ---
