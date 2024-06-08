@@ -62,9 +62,9 @@ body {
 }
 
 .navbar-default .navbar-brand {
-  font-family: "Lucida Bright", Georgia, serif;
+  font-family: "Garamond", "Times New Roman", serif;
 
-  color: #f6f6f6;
+  color: #gold;
 }
 
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
