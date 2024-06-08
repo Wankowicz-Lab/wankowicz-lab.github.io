@@ -4,12 +4,6 @@ layout: default
 group: philosophy
 ---
 
----
-title: Wankowicz Lab Philosophy
-layout: default
-group: philosophy
----
-
 <div style="margin-top: 20px;">
 </div>
 
