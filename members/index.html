@@ -4,8 +4,6 @@ layout: members
 group: members
 ---
 
-<h1>Wankowicz Lab Members</h1>
-
 {% for person in site.data.members %}
 
 <div class="row">
@@ -36,3 +34,16 @@ group: members
 </div>
 <hr>
 {% endfor %}
+
+
+<!-- <header class="align-center">
+ --> 
+<!-- </header> -->
+<h3>Past Lab Members</h3>
+{% if site.data.alumni %}  
+  {%- for student in site.data.alumni -%}
+
+  {{student.name}}<br>
+
+  {%- endfor -%}
+{% endif %}
