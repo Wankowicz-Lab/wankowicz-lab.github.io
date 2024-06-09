@@ -23,6 +23,6 @@ The difficulty of modeling multiple states is due to the signal-to-noise ratio i
 
 The understanding of ligand specificity is foundational to the biochemistry of living organisms. However, our atomistic understanding of enzyme specificity is driven primarily by static interactions between a substrate and catalytic residues, ignoring the critical component of protein dynamics. Dynamics affect binding and catalysis by enabling proteins to access various states and altering the thermodynamics associated with these processes through entropy. However, the influence of dynamics is frequently underestimated because of the complexities in modeling multiple states and quantifying entropy. Our overall goal is to leverage the conformational modeling improvements we make to elucidate the role of entropy in substrate recognition and catalysis, aiming to provide a more comprehensive thermodynamic understanding of enzyme function. 
 
-We attack this problem by combining our modeling strategies, machine learning, and biophysical measurements to determine how entropy influences (1) binding specificity and (2) catalysis. 
+We attack this problem by combining our modeling strategies, machine learning, and biophysical measurements to determine how entropy influences binding specificity and catalysis. 
 
 
