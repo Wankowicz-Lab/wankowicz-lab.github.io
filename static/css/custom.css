@@ -63,15 +63,15 @@ body, .display-4, .welcomefont, .navbar-default .navbar-brand, .navbar-default .
 }
 
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
-  color: white;
+  color: black;
 }
 
 .navbar-default .navbar-text {
-  color: white;
+  color: black;
 }
 
 .navbar-default .navbar-nav > li > a {
-  color: white;
+  color: black;
 }
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
@@ -97,12 +97,12 @@ body, .display-4, .welcomefont, .navbar-default .navbar-brand, .navbar-default .
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-  background-color: white;
+  background-color: black;
 }
 
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
-  border-color: white;
+  border-color: black;
 }
 
 .navbar-default .navbar-link {
