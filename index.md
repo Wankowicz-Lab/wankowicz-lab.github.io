@@ -5,7 +5,7 @@ group: home
 ---
 
 ## The Wankowicz Lab
-{: .display-4}
+<div class="row" style="background-color: white; color: black;">
 
 
 
