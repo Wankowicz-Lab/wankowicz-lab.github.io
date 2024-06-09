@@ -17,11 +17,14 @@ group: research
   
 ### Modeling of Conformational Ensembles <br>
 
-<div class="col-md-5 order-md-2 align-self-center">
-<img class="img-fluid" src="/static/img/pub/2023_wankowicz.jpg" alt="qFit">
+</div>
+<div class="row">
+<div class="col-md-12">
+<img class="img-fluid mx-auto d-block" src="/static/img/pub/2023_wankowicz.jpg" alt="qFit" style="display: block; margin: 0 auto;">
 
 </div>
 </div>
+
 <div class="row">
 
 X-ray crystallography and single particle cryoEM studies collect data averaged over tens of thousands to billions of individual system copies. Each molecule within the system can adopt a different conformation (conformational heterogeneity) and may differ slightly in chemical composition (compositional heterogeneity). However, structural models generally represent the system with a single coordinate set. This simplification overlooks the multiple states present in the experimental data and consequently omits details vital to understanding protein function. 
