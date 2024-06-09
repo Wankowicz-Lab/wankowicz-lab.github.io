@@ -4,46 +4,56 @@ layout: members
 group: members
 ---
 
-{% for person in site.data.members %}
-
-<div class="row">
-    <div class="3u 12u$(small)">
-        <span class="image fit"><img src="{{person.image}}" alt=""></span>
-        <br>
-        <strong><span class="memberName">{{person.name}}</span></strong><br>
-        <span class="memberDetail">{{person.position}}</span><br>
-        <em><span class="memberDetail">{{person.email}}</span></em><br>
-        {% if person.orcid %}
-          <a href="http://orcid.org"><img class="inline-block" src="/images/orcid_logo.png"></a>
-          <a id="links" href="http://{{person.orcid}}"><span class="memberDetail"> {{person.orcid}}</span></a> <br>
-        {% endif %}
-        {% if person.scholar %}
-          <a href="https://scholar.google.com/"><img class="inline-block" src="/images/google-scholar.png"></a>
-          <a id="links" href= "http://scholar.google.com/citations?user={{person.scholar}}"><span class="memberDetail"> Scholar Citations </span></a> <br>
-        {% endif %}
-        {% if person.twitter %}
-          <a href="http://twitter.com/"><img class="inline-block" src="/images/twitter_logo.png"></a>
-          <a id="links" href= "http://twitter.com/{{person.twitter}}"> <span class="memberDetail">@{{person.twitter}} </span></a> <br>
-        {% endif %}
-    </div>
-
-    <div class="9u$ 12u$(small)">
-        {{person.description | markdownify}}
-    </div>
-
-</div>
-<hr>
-{% endfor %}
+<h1>Wankowicz Lab Members</h1>
 
 
-<!-- <header class="align-center">
- --> 
-<!-- </header> -->
-<h3>Past Lab Members</h3>
-{% if site.data.alumni %}  
-  {%- for student in site.data.alumni -%}
+{% for member in site.members %}
 
-  {{student.name}}<br>
+{% unless member.enddate == empty or member.startdate.size != member.enddate.size %}
+{% continue %}
+{% endunless %}
 
-  {%- endfor -%}
+{% if member.position contains "Affiliate" or member.position contains "Visiting" %}
+{% continue %}
 {% endif %}
+
+        <hr>
+        <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
+        <div id = "{{member.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
+            <div class="col-sm-4">
+                <img class="img-fluid" src="{{member.image}}" {% if member.altimage %} onmouseover="this.src='{{member.altimage}}';" onmouseout="this.src='{{member.image}}';" {% endif %} alt="{{member.name}}"; width="365"; height="365"><br>
+                <strong>{{member.name}}</strong> <br>
+                {% if member.pronouns %}
+                  <em>{{member.pronouns}}</em> <br>
+                {% endif %}
+                {{member.position | markdownify | remove: '<p>' | remove: '</p>' }} <br>
+                <em>{{member.email}}</em> <br>
+                {% if member.website %}
+                  <a style="overflow-wrap: break-word;" href= "{{member.website}}">{{member.website}}</a> <br>
+                {% endif %}
+                {% if member.orcid %}
+                  <a href="http://orcid.org"><img class="inline-block mem-icon" src="/static/img/logo/orcid_logo.svg"></a>
+                  <a href="http://orcid.org/{{member.orcid}}"> {{member.orcid}}</a> <br>
+                {% endif %}
+                {% if member.linkedin %}
+                  <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/logo/linkedin_logo.svg"></a>
+                  <a href= "http://www.linkedin.com/in/{{member.linkedin}}"> {{member.linkedin}} </a> <br>
+                {% endif %}
+                {% if member.scholar %}
+                  <a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/logo/gscholar_logo.svg"></a>
+                  <a href= "http://scholar.google.com/citations?user={{member.scholar}}"> {% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first }}{% endif %}'s Citations </a> <br>
+                {% endif %}
+                {% if member.twitter %}
+                  <a href="http://twitter.com"><img class="inline-block mem-icon" src="/static/img/logo/twitter_logo.svg"></a>
+                  <a href= "http://twitter.com/{{member.twitter}}"> @{{member.twitter}} </a> <br>
+                {% endif %}
+                {% if member.github %}
+                  <a href="http://github.com"><img class="inline-bloc mem-icon" src="/static/img/logo/github_logo.svg"></a>
+                  <a href= "http://github.com/{{member.github}}"> {{member.github}} </a> <br>
+                {% endif %}
+            </div>
+            <div class="col-sm-8">
+                {{member.description | markdownify}}
+            </div>
+        </div>
+{% endfor %}
