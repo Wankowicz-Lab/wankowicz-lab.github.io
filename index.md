@@ -20,11 +20,11 @@ group: home
 </style>
 
 <div class="content">
-  ## The Wankowicz Lab
+  The Wankowicz Lab
 
   <div class="row">
 
-  ### Our main areas of research include:
+  Our main areas of research include:
   - **Improving the modeling of structural conformational ensembles from X-ray crystallography and cryo-EM data by leveraging optimization algorithms and generative AI.**
   - **Elucidating the structural mechanisms by which conformational entropy influences binding specificity and catalysis.** <br>
 
