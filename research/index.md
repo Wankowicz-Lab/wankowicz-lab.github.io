@@ -9,7 +9,7 @@ group: research
 
 ## The lab has two main areas of research: 
 
-1. Improving the modeling of structural conformational ensembles from X-ray crystallography and cryo-EM data
+1. Developing software to improving the modeling of conformational ensembles from X-ray crystallography and cryo-EM data
 
 2. Elucidating how conformational entropy influences binding specificity and catalysis. 
 
@@ -17,9 +17,16 @@ group: research
   
 ### Modeling of Conformational Ensembles <br>
 
+<div class="col-md-5 order-md-2 align-self-center">
+<img class="img-fluid" src="/static/img/pub/2023_wankowicz.jpg" alt="qFit">
+
+</div>
+</div>
+<div class="row">
+
 X-ray crystallography and single particle cryoEM studies collect data averaged over tens of thousands to billions of individual system copies. Each molecule within the system can adopt a different conformation (conformational heterogeneity) and may differ slightly in chemical composition (compositional heterogeneity). However, structural models generally represent the system with a single coordinate set. This simplification overlooks the multiple states present in the experimental data and consequently omits details vital to understanding protein function. 
 
-The difficulty of modeling multiple states is due to the signal-to-noise ratio in these data types. The lab develops [qFit](https://github.com/ExcitedStates/qfit-3.0) to automatically create multiconformer models, which model more of the conformational heterogeneity of proteins and improve the fit to experimental data. We do this in collaboration with [Fraser](https://fraserlab.com/) and [Keedy](https://keedylab.org/) labs. Additionally, we are exploring how to leverage generative AI to improve the fitting of X-ray crystallography and cryo-EM data.
+The difficulty of modeling multiple states is due to the signal-to-noise ratio in these data types. The lab develops a package, [qFit](https://github.com/ExcitedStates/qfit-3.0), which automatically detects more of the conformational ensemble and can improve the fit of the models to experimental data in high-resolution structures. We do this in collaboration with [Fraser](https://fraserlab.com/) and [Keedy](https://keedylab.org/) labs. Additionally, we are exploring how to leverage generative AI to improve the fitting of X-ray crystallography and cryo-EM data.
 
 <div class="row">
 ### Structural Mechanisms of Conformational Entropy <br>
