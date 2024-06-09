@@ -6,16 +6,14 @@ group: home
 
 <style>
   body {
+    position: relative;
     background-image: url('/static/img/other/ribo_blur.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    color: white; /* Assuming the image has dark areas, adjust color as needed */
-  }
-  .content {
-    background: rgba(0, 0, 0, 0.5); /* Adds a slight dark overlay for better text readability */
-    padding: 20px;
-    border-radius: 10px;
+    color: #B8860B; /* Dark gold color */
+    margin: 0;
+    padding: 0;
   }
 </style>
 
