@@ -4,23 +4,18 @@ layout: default
 group: research
 ---
 
-<div class="row">
 
+<div class="row">
 
 ## The lab has two main areas of research: 
 
-(1) improving the modeling of structural conformational ensembles from X-ray crystallography and cryo-EM data by leveraging optimization algorithms and generative AI.
+1. Improving the modeling of structural conformational ensembles from X-ray crystallography and cryo-EM data by leveraging optimization algorithms and generative AI.
 
-(2) elucidating the structural mechanisms by which conformational entropy influences binding specificity and catalysis. 
-
+2. Elucidating the structural mechanisms by which conformational entropy influences binding specificity and catalysis. 
 
 ### Modeling of Conformational Ensembles <br>
 
-
 We also are the main developers of [qFit](https://github.com/ExcitedStates/qfit-3.0), along with the [James Fraser](https://fraserlab.com/) and [Daniel Keedy](https://keedylab.org/) labs.  
-
-
-
 
 ### Structural Mechanisms of Conformational Entropy <br>
 
