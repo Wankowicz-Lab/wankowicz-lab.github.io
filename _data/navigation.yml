@@ -6,10 +6,6 @@
   link: "/research"
   group: research
 
-- name: publications
-  link: "/publications"
-  group: publications
-
 - name: members
   link: "/members"
   group: members
@@ -17,4 +13,12 @@
 - name: philosophy
   link: "/philosophy"
   group: philosophy
+
+- name: publications
+  link: "/publications"
+  group: publications
+
+- name: contact
+  link: "/contact"
+  group: contact
 
