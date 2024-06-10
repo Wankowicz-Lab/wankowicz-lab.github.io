@@ -7,15 +7,14 @@ group: research
 <br>
 <br>
 <br>
-<br>
 
 ## The lab has two main areas of research
 
 1. Developing software to improve the modeling of conformational ensembles from X-ray crystallography and cryo-EM data
 2. Elucidating how conformational entropy influences binding specificity and catalysis.
 
-
-
+<br>
+<br>
 
 ### Modeling of Conformational Ensembles
 
@@ -27,6 +26,9 @@ The difficulty of modeling multiple states is due to the signal-to-noise ratio i
 
 
 <img src="/static/img/pub/2023_wankowicz_2.png" alt="entropy" style="width: 70%; display: block; margin: 0 auto;">
+
+<br>
+<br>
 
 ### Structural Mechanisms of Conformational Entropy
 
