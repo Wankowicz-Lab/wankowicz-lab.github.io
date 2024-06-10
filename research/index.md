@@ -4,12 +4,10 @@ layout: default
 group: research
 ---
 
-{% include header.html %}
-<style>
-  body {
-    margin-top: 100px; 
-  }
-</style>
+<br>
+<br>
+<br>
+<br>
 
 ## The lab has two main areas of research
 
