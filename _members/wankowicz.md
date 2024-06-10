@@ -36,7 +36,7 @@ In 2024, Stephanie opened her lab at [Vanderbilt University](https://www.vanderb
 
 
 
-Intertwined with her science, Stephanie is interested in improving equity and inclusion in science. Her work has spanned from starting a mentorship program for the [Biophysics program at UCSF](https://biophysics.ucsf.edu/) and starting a DEIJ Journal Club in the Fraser lab](https://fraserlab.com/). She will be continuing these efforts at Vanderbilt.
+Intertwined with her science, Stephanie is interested in improving equity and inclusion in science. Her work has spanned from starting a mentorship program for the [Biophysics program at UCSF](https://biophysics.ucsf.edu/) and starting a DEIJ Journal Club in the [Fraser lab](https://fraserlab.com/tags/deij_jc/). She will be continuing these efforts at Vanderbilt.
 
 
 
