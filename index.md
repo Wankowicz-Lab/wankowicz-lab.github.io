@@ -7,7 +7,7 @@ group: home
 <style>
   body {
     position: relative;
-    background-image: url('/static/img/other/ribo_blur.png');
+    background-image: url('{{ "img/other/ribo_blur.png" | relative_url }}')
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
