@@ -9,7 +9,10 @@ group: home
   <div class="row">
   <div class="row">
 
-  **Welcome to the Wankowicz lab. We develop methods to improve the modeling of conformational ensembles from X-ray crystallography and cryo-EM and use those methods to investigate how conformational entropy influences binding specificity and catalysis.**
+  Welcome to the Wankowicz lab. 
+   <br>
+  We develop methods to improve the modeling of conformational ensembles from X-ray crystallography and   cryo-EM and use those methods to investigate how conformational entropy influences binding      
+  specificity and catalysis.
 
   <br>
 
