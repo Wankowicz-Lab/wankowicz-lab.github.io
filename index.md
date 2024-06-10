@@ -16,8 +16,8 @@ group: home
     padding: 0;
   }
     .content {
-    font-size: 1.5em; /* Increase font size */
-    font-weight: bold; /* Make text bold */
+    font-size: 1.5em; 
+    font-weight: bold; 
     padding: 20px;
     position: relative;
     z-index: 2;
@@ -25,13 +25,13 @@ group: home
 </style>
 
 <div class="content">
-  The Wankowicz Lab
+The Wankowicz Lab
 
   <div class="row">
 
   Our main areas of research include:
-  - **Improving the modeling of structural conformational ensembles from X-ray crystallography and cryo-EM data by leveraging optimization algorithms and generative AI.**
-  - **Elucidating the structural mechanisms by which conformational entropy influences binding specificity and catalysis.** <br>
+  - *Improving the modeling of structural conformational ensembles from X-ray crystallography and cryo-EM data by leveraging optimization algorithms and generative AI.*
+  - *Elucidating the structural mechanisms by which conformational entropy influences binding specificity and catalysis.* <br>
 
   <br>
 
