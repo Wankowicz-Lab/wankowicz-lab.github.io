@@ -10,7 +10,7 @@ group: research
   }
 </style>
 
-## The lab has two main areas of research:
+## The lab has two main areas of research
 
 1. Developing software to improve the modeling of conformational ensembles from X-ray crystallography and cryo-EM data
 2. Elucidating how conformational entropy influences binding specificity and catalysis.
