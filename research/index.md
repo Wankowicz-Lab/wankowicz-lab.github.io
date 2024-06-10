@@ -4,6 +4,11 @@ layout: default
 group: research
 ---
 
+<style>
+  body {
+    margin-top: 20px; 
+  }
+</style>
 
 ## The lab has two main areas of research:
 
