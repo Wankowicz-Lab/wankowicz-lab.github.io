@@ -4,26 +4,6 @@ layout: home
 group: home
 ---
 
-<style>
-  body {
-    position: relative;
-    background-image: url('{{ "img/other/ribo_blur.png" | relative_url }}')
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    color: #B8860B; /* Dark gold color */
-    margin: 0;
-    padding: 0;
-  }
-    .content {
-    font-size: 1.5em; 
-    font-weight: bold; 
-    padding: 20px;
-    position: relative;
-    z-index: 2;
-  }
-</style>
-
 <div class="content">
 
   <div class="row">
