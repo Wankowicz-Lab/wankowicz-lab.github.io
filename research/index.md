@@ -22,7 +22,7 @@ X-ray crystallography and single particle cryoEM studies collect data averaged o
 The difficulty of modeling multiple states is due to the signal-to-noise ratio in these data types. The lab develops a package, [qFit](https://github.com/ExcitedStates/qfit-3.0), which automatically detects more of the conformational ensemble and can improve the fit of the models to experimental data in high-resolution structures. We do this in collaboration with [Fraser](https://fraserlab.com/) and [Keedy](https://keedylab.org/) labs. Additionally, we are exploring how to leverage generative AI to improve the fitting of X-ray crystallography and cryo-EM data.
 
 
-![entropy](/static/img/pub/2023_wankowicz_2.png)
+<img src="/static/img/pub/2023_wankowicz_2.png" alt="entropy" style="width: 50%; display: block; margin: 0 auto;">
 
 ### Structural Mechanisms of Conformational Entropy
 
