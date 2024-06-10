@@ -7,7 +7,7 @@ group: philosophy
 <div style="margin-top: 80px;">
 </div>
 
-## Our goal is to become the best scientists we can be, believing that excellence in science will naturally follow. To achieve this, we dedicate ourselves to the following guiding principles.
+## Our goal is to become the best scientists that we can be, believing that excellence in science will naturally follow. To achieve this, we dedicate ourselves to the following guiding principles.
 
 <div style="margin-top: 50px;">
 </div>
