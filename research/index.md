@@ -30,10 +30,13 @@ The difficulty of modeling multiple states is due to the signal-to-noise ratio i
 <br>
 
 
-<img src="/static/img/pub/2023_wankowicz_2.png" alt="entropy" style="width: 70%; display: block; margin: 0 auto;">
+<img src="/static/img/other/Website_CCEM.png" alt="entropy" style="width: 70%; display: block; margin: 0 auto;">
 
 ### Structural Mechanisms of Conformational Entropy
 
-The understanding of ligand specificity is foundational to the biochemistry of living organisms. However, our atomistic understanding of enzyme specificity is driven primarily by static interactions between a substrate and catalytic residues, ignoring the critical component of protein dynamics. Dynamics affect binding and catalysis by enabling proteins to access various states and altering the thermodynamics associated with these processes through entropy. However, the influence of dynamics is frequently underestimated because of the complexities in modeling multiple states and quantifying entropy. Our overall goal is to leverage the conformational modeling improvements we make to elucidate the role of entropy in substrate recognition and catalysis, aiming to provide a more comprehensive thermodynamic understanding of enzyme function.
+Ligand specificity is foundational to the biochemistry of living organisms. However, our atomistic understanding of enzyme specificity is driven primarily by static interactions between a substrate and catalytic residues, ignoring the critical component of protein dynamics. While functional residues almost always decrease their dynamics upon binding or during catalysis (reducing entropy), the rest of the enzyme scaffold can increase or decrease dynamics, leading to different entropic consequences for the entire enzyme. 
 
-We attack this problem by combining our modeling strategies, machine learning, and biophysical measurements to determine how entropy influences binding specificity and catalysis.
+
+<img src="/static/img/other/Figure_3.png" alt="IDR_Bound" style="width: 70%; display: block; margin: 0 auto;">
+
+The influence of dynamics is frequently underestimated because of the complexities in modeling multiple states and quantifying entropy. Our overall goal is to leverage the conformational modeling improvements we make to elucidate the role of entropy in substrate recognition and catalysis, aiming to provide a more comprehensive thermodynamic understanding of enzyme function. We attack this problem by combining our modeling strategies, machine learning, and biophysical measurements to determine how entropy influences binding specificity and catalysis.
