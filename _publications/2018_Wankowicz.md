@@ -5,6 +5,7 @@ pub_date: "2018-06-06" #Date of publication. Change from Biorxiv date to Journal
 image: "/static/img/pub/2018_Wankowicz_CGC.png" #Minimum dimensions TBD
 pmid: 
 doi: "10.31219/osf.io/gupvq"
+osf: "preprints/osf/gupvq"
 links:
 pdf: "https://osf.io/gupvq/download?format=pdf"
 ---
