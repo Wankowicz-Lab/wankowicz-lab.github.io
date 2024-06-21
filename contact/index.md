@@ -26,7 +26,7 @@ group: contact
   <h4>Stephanie Wankowicz, Ph.D.</h4>
   Assistant Professor<br>
   [Molecular Physiology and Biophysics](https://medschool.vanderbilt.edu/mpb/)<br>
-  Light Hall, Vanderbilt University<br>
+  735B Light Hall, Vanderbilt University<br>
   2215 Garland Avenue<br>
   Nashville, TN 37232-0615<br>
   email: mullane.stephanie (at) gmail.com <br>
