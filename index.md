@@ -12,7 +12,7 @@ group: home
   Welcome to the Wankowicz lab. 
   <br>
   <br>
-  We are exploring the structural basis of entropy's role in modulating binding specificity and catalytic activity. To achieve this, we develop computational algorithms to improve the modeling of conformational ensembles from X-ray crystallography and cryo-EM. Using these improved models, along with biophysical measurements, we are parsing out how conformational entropy with macromolecules, alongside solvent entropy, impacts binding specificity and catalysis. 
+The Wankowicz lab's goal is to elucidate the role of entropy in substrate specificity and catalysis, aiming to provide a more comprehensive thermodynamic understanding of enzyme function. The influence of entropy is frequently underestimated because of the complexities in modeling multiple states and quantifying it. To achieve this, we develop computational algorithms to improve the modeling of conformational ensembles from X-ray crystallography and cryo-EM. We are parsing out how conformational and solvent entropy impacts binding specificity and catalysis using these improved models, biophysical measurements, and machine learning. 
   <br>
   <br>
   We are part of the [Molecular Physiology & Biophysics Department](https://medschool.vanderbilt.edu/mpb/), the [Center for AI in Protein Dynamics](https://www.ai-proteindynamics.org/), and the [Center for Structural Biology](https://www.vanderbilt.edu/csb/) at Vanderbilt University.
