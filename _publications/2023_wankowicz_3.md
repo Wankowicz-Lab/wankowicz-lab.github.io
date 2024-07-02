@@ -3,7 +3,7 @@ title: "Comprehensive Encoding of Conformational and Compositional Protein Struc
 authors: "**Wankowicz SA**, Fraser JS"
 journal: IUCrJ
 pub_date: "2024-7-01" #Date of publication. Change from Biorxiv date to Journal date once accepted
-image: "/static/img/pub/2023_wankowicz_3.png" 
+image: "/static/img/pub/2023_wankowicz_3.jpg" 
 pmid: 
 pmcid: 
 chemrxiv: 2023-ggd1w-v3
