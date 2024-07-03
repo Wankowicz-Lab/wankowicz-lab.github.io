@@ -4,7 +4,7 @@ authors: "**Wankowicz SA**, Fraser JS"
 journal: IUCrJ
 pub_date: "2024-7-01" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/img/pub/2023_wankowicz_3.jpg" 
-pmid: 
+pmid: "38958015"
 pmcid: 
 chemrxiv: 2023-ggd1w-v3
 pdf: 
