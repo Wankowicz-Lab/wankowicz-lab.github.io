@@ -7,7 +7,7 @@ position: PI
 timeline_positions: []
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers
-email: mullane.stephanie (@) gmail.com
+email: stephanie.wankowicz (@) vanderbilt.edu
 scholar: WJ9lxYMAAAAJ
 website: https://stephaniewankowicz.github.io/
 UCSF:
@@ -16,7 +16,7 @@ linkedin: stephanie-mullane-wankowicz-2657a726
 github: stephaniewankowicz
 orcid: 0000-0002-4225-7459
 
-description: "Stephanie earned her bachelor’s degree in Biochemistry and Molecular Biology from the University of Massachusetts, Amherst, where she conducted research on the economics of the Clean Water Act under Dr. Paul Kolkoswki.
+description: "Stephanie earned her bachelor’s degree in Biochemistry and Molecular Biology from the University of Massachusetts, Amherst, where she researched the economics of the Clean Water Act under Dr. Paul Kolkoswki.
 
 
 
@@ -34,7 +34,7 @@ In 2018, Stephanie began her graduate career in the [Biophysics program at UCSF]
 In 2024, Stephanie opened her lab at [Vanderbilt University](https://www.vanderbilt.edu/) in the [Molecular Physiology and Biophysics Department](https://medschool.vanderbilt.edu/mpb/), [Center for AI in Protein Dynamics](https://www.ai-proteindynamics.org/), and [Center for Structural Biology](https://www.vanderbilt.edu/csb/). The lab has two main areas of research: (1) improving the modeling of structural conformational ensembles from X-ray crystallography and cryo-EM data by leveraging generative AI, (2) elucidating the structural mechanisms by which conformational entropy influences binding specificity and catalysis. Find out more about our current research in the [research tab](/research).
 
 
-Stephanie is deeply committed to enhancing equity and inclusion in science. At UCSF, she initiated a mentorship program for the [Biophysics program at UCSF](https://biophysics.ucsf.edu/) and founded a DEIJ Journal Club in the [Fraser lab](https://fraserlab.com/tags/deij_jc/). She plans to continue these impactful efforts at Vanderbilt.
+Stephanie is deeply committed to enhancing equity and inclusion in science. At UCSF, she initiated a mentorship program for the [Biophysics program at UCSF](https://biophysics.ucsf.edu/) and founded a DEIJ Journal Club in the [Fraser lab](https://fraserlab.com/tags/deij_jc/). She plans to continue these efforts at Vanderbilt.
 
 
 Outside of lab, you are most likely to find Stephanie running in a park or on a trail!"
