@@ -12,9 +12,9 @@ group: home
   Welcome to the Wankowicz lab. 
   <br>
   <br>
-The Wankowicz lab works on discovering the structural mechanisms of binding and catalysis. Enzyme-substrate binding and catalysis are the foundations for the biochemistry of living systems. While we can biochemically measure enzyme-substrate interactions, we often lack the structural mechanism underlying these measurements, limiting our ability to explain enzyme function, the intricacies of signaling pathways, and how drugs or mutations impact enzyme function. We aim to change this paradigm by building computational tools and experimental approaches to more completely structurally explain these biochemical measurements, refining our understanding of protein function, signaling, mutation effects, and drug specificity, and offering key insights into cellular mechanisms and diseases.
+The Wankowicz lab works on discovering the structural mechanisms of binding and catalysis, the foundations for the biochemistry of living systems. While we can biochemically measure enzyme-substrate interactions, we often lack the structural mechanism underlying these measurements, limiting our ability to explain enzyme function, signaling pathways, and how drugs or mutations impact function and disease. 
 
-We are especially focused on determining the role of entropy in this process. We develop computational algorithms to improve the modeling of macromolecules from X-ray crystallography and cryo-EM and use machine learning to investigate how these structural models relate to biochemical measurements of binding and catalysis. 
+We aim to change this paradigm by developing computational algorithms and experimental approaches to more completely structurally explain these biochemical measurements, focusing on metrics of entropy. 
 
   <br>
   <br>
