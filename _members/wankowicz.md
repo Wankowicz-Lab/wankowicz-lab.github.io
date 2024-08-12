@@ -16,16 +16,10 @@ linkedin: stephanie-mullane-wankowicz-2657a726
 github: stephaniewankowicz
 orcid: 0000-0002-4225-7459
 
-description: "Stephanie earned her bachelor’s degree in Biochemistry and Molecular Biology from the University of Massachusetts, Amherst, where she researched the economics of the Clean Water Act under Dr. Paul Kolkoswki.
-
-
-
-After graduating, she worked as a Data Specialist at [Dana-Farber Cancer Institute](https://www.dana-farber.org/) in the [Lank Center for Genitourinary Oncology](https://www.dana-farber.org/cancer-care/treatment/genitourinary-cancer), managing the Bladder Cancer Translational Research Center under [Joaquim Bellmunt](http://bellmuntoncologia.com). During this time, she performed clinical and translational research, helping to identify the relationship between the expression of PD-L1, an immune checkpoint marker, and overall survival in metastatic bladder cancer.
-
+description: "Stephanie earned her bachelor’s degree in Biochemistry and Molecular Biology from the University of Massachusetts, Amherst, where she researched the economics of the Clean Water Act under Dr. Paul Kolkoswki. After graduating, she worked as a Data Specialist at [Dana-Farber Cancer Institute](https://www.dana-farber.org/) in the [Lank Center for Genitourinary Oncology](https://www.dana-farber.org/cancer-care/treatment/genitourinary-cancer), managing the Bladder Cancer Translational Research Center under [Joaquim Bellmunt](http://bellmuntoncologia.com). During this time, she performed clinical and translational research, helping to identify the relationship between the expression of PD-L1, an immune checkpoint marker, and overall survival in metastatic bladder cancer.
 
 
 Subsequently, Stephanie worked as a computational biologist at the [Dana-Farber Cancer Institute](https://www.dana-farber.org/) and the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/), working in [Eli Van Allen's lab](https://vanallenlab.dana-farber.org/). There, she developed algorithms utilizing high-throughput genomics data to assess responses to oncology treatments. She led the largest study of prostate cancer exomes, identifying new genes and pathways commonly mutated in prostate cancer. Additionally, she helped identify genetic biomarkers that predict patient responses to immunotherapy, targeted therapy, and chemotherapy.
-
 
 
 In 2018, Stephanie began her graduate career in the [Biophysics program at UCSF](https://biophysics.ucsf.edu/), working in [James Fraser’s lab](https://fraserlab.com/). She developed computational tools to automatically construct conformational ensembles from X-ray crystallography and cryo-EM data, extracting low-populated but biologically important states of macromolecules. Leveraging structural bioinformatics, she uncovered the spatial redistribution of entropy in ligand binding. Her graduate studies were supported by fellowships from [NSF](http://www.nsfgrfp.org/),  [UCSF Discovery Fellows Program](https://graduate.ucsf.edu/discovery-fellows-program), and the [UCSF Antiviral Drug Discovery Program](https://qbi.ucsf.edu/qcrgAViDD).  
@@ -37,7 +31,7 @@ In 2024, Stephanie opened her lab at [Vanderbilt University](https://www.vanderb
 Stephanie is deeply committed to enhancing equity and inclusion in science. At UCSF, she initiated a mentorship program for the [Biophysics program at UCSF](https://biophysics.ucsf.edu/) and founded a DEIJ Journal Club in the [Fraser lab](https://fraserlab.com/tags/deij_jc/). She plans to continue these efforts at Vanderbilt.
 
 
-Outside of lab, you are most likely to find Stephanie running in a park or on a trail!"
+Outside of the lab, you are most likely to find Stephanie running on the road or trail!"
 
 
 
