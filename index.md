@@ -9,7 +9,7 @@ group: home
   <div class="row">
   <div class="row">
 
-  Welcome to the Wankowicz lab. 
+  <span style="font-size: 36px; font-weight: bold;">Welcome to the Wankowicz lab.</span>
   <br>
   <br>
 The Wankowicz lab works on discovering the structural mechanisms of binding and catalysis, the foundations for the biochemistry of living systems. While we can biochemically measure enzyme-substrate interactions, we often lack the structural mechanism underlying these measurements, limiting our ability to explain enzyme function, signaling pathways, and how drugs or mutations impact function and disease. 
