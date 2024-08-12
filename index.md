@@ -4,7 +4,7 @@ layout: home
 group: home
 ---
 
-<div class="content">
+<div class="content" style="font-size: 14px;">
 
   <div class="row">
   <div class="row">
