@@ -8,17 +8,14 @@ group: research
 <br>
 <br>
 
-### The lab is interested in determining the mechanisms driving the binding specificity and catalysis. 
+### The lab is interested in determining the mechanisms driving the binding specificity and catalysis, viewing this problem from a thermodynamic and structural lens. 
 
-We view this problem from a thermodynamic and structural lens. 
-
-Our approaches to answering these key questions include:
 
 1) Developing novel algorithms that model the conformational ensemble *hidden* in experimental data.
    
-3) Connecting structure to biophysical binding measurements, strongly focusing on quantitative entropy metrics.
+3) Connecting structure to thermodynamic biophysical binding measurements, strongly focusing on quantitative entropy metrics.
    
-4) Using machine learning, bioinformatics, and machine learning to identify how conformational ensembles, considering the enthalpic and entropic portion, impact binding specificity and catalysis.
+4) Leveraging machine learning, bioinformatics, and experimental approaches to identify how conformational ensembles, considering the enthalpic and entropic portion, impact binding specificity and catalysis.
 
    
 
@@ -37,13 +34,13 @@ The lab develops a software package, [qFit](https://github.com/ExcitedStates/qfi
 <br>
 
 
-###Experimentally linking structural conformational ensembles and biophysical measurements
+### Experimentally linking structural conformational ensembles and biophysical measurements
 
 ![qFit](/static/img/entropy_biophysics.jpg)
 
 Most conclusions about protein function, binding affinity predictions, and mutations' impact are based only on enthalpic parameters, encompassing only 50% of free energy. For example, suppose the binding of two highly related ligands differs by a hydrogen bond. In that case, it is often predicted that the ligand with an additional hydrogen bond has a higher binding affinity. However, this bond only tells part of the story of why binding affinity changes. One key reason enthalpic changes are favored is that quantitative metrics can be extracted from structural models, allowing easy use of these metrics' computational algorithms, such as binding prediction or ligand docking. However, equivalent metrics currently do not exist for entropy, preventing us from explicitly incorporating entropy into our structural intuition of binding. Our goal is to change this paradigm.
 
-###How do we decipher the structural contributions of entropy and enthalpy in binding affinity and catalysis?
+### Deciphering the structural contributions of entropy and enthalpy in binding affinity and catalysis
 
 <img src="/static/img/other/Website_CCEM.png" alt="entropy" style="width: 100%; margin: 0 auto;">
 
