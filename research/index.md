@@ -23,7 +23,7 @@ group: research
 
 ### Algorithm Development of Conformational Ensembles
 
-![Algorithm Development](/static/img/algorithm_dev.jpg)
+<img src="/static/img/other/ML_ensemble.jpg" alt="Algorithm Development" style="width: 100%; margin: 0 auto;">
 
 X-ray crystallography and single particle cryoEM studies collect data averaged over tens of thousands to billions of individual system copies. Each molecule within the system can adopt a different conformation (conformational heterogeneity) and may differ slightly in chemical composition (compositional heterogeneity). However, structural models generally represent the system with a single coordinate set. This simplification overlooks the multiple states present in the experimental data and consequently omits details vital to understanding protein function. The difficulty of modeling multiple states is due to the signal-to-noise ratio in these data types. 
 
