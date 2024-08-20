@@ -51,5 +51,5 @@ Ligand specificity is foundational to the biochemistry of living organisms. Howe
 
 The influence of dynamics is frequently underestimated because of the complexities in modeling multiple states and quantifying entropy. Our overall goal is to elucidate the role of entropy in substrate specificity and catalysis, aiming to provide a more comprehensive thermodynamic understanding of enzyme function. We answer these questions using experimental perturbation, machine learning, and bioinformatics.
 
-![ML_Kinases](/static/img/other/ML_Kinases.jpg)
+<img src="/static/img/other/ML_Kinases.jpg" alt="ML_Kinases" style="width: 100%; ; margin: 0 auto;">
 
