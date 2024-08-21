@@ -11,17 +11,13 @@ group: research
 ### The lab is interested in determining the mechanisms driving the binding specificity and catalysis, viewing this problem from a thermodynamic and structural lens. 
 
 
-1) Developing novel algorithms that model the conformational ensemble *hidden* in experimental data.
-   
-3) Connecting structure to thermodynamic biophysical binding measurements, strongly focusing on quantitative entropy metrics.
-   
-4) Leveraging machine learning, bioinformatics, and experimental approaches to identify how conformational ensembles, considering the enthalpic and entropic portion, impact binding specificity and catalysis.
+
 
    
 
 <br>
 
-### Algorithm Development of Conformational Ensembles
+### Developing Novel Algorithms to Detect Conformational Ensembles *hidden* in experimental data
 
 <img src="/static/img/other/ML_Ensemble.jpg" alt="Algorithm Development" style="width: 100%; margin: 0 auto;">
 
@@ -37,8 +33,7 @@ The lab develops a software package, [qFit](https://github.com/ExcitedStates/qfi
 
 
 
-
-### Experimentally linking structural conformational ensembles and biophysical measurements
+### Connecting structures to thermodynamic biophysical binding measurements, strongly focusing on quantitative entropy metrics.
 
 Most conclusions about protein function, binding affinity predictions, and mutations' impact are based only on enthalpic parameters, encompassing only 50% of free energy. For example, suppose the binding of two highly related ligands differs by a hydrogen bond. In that case, it is often predicted that the ligand with an additional hydrogen bond has a higher binding affinity. However, this bond only tells part of the story of why binding affinity changes. One key reason enthalpic changes are favored is that quantitative metrics can be extracted from structural models, allowing easy use of these metrics' computational algorithms, such as binding prediction or ligand docking. However, equivalent metrics currently do not exist for entropy, preventing us from explicitly incorporating entropy into our structural intuition of binding. Our goal is to change this paradigm.
 
@@ -53,11 +48,14 @@ Most conclusions about protein function, binding affinity predictions, and mutat
 
 ### Deciphering the structural contributions of entropy and enthalpy in binding affinity and catalysis
 
+
+
 Ligand specificity is foundational to the biochemistry of living organisms. However, our atomistic understanding of enzyme specificity is driven primarily by static interactions between a substrate and catalytic residues, ignoring the critical component of protein dynamics. While functional residues almost always decrease their dynamics upon binding or during catalysis (reducing entropy), the rest of the **enzyme scaffold** can increase or decrease dynamics, leading to different entropic consequences for the entire enzyme. We are especially interested in probing this question in kinases.  
 
 <img src="/static/img/other/figure_3.png" alt="IDR_Sidechain" style="width: 100%; ; margin: 0 auto;">
 
-The influence of dynamics is frequently underestimated because of the complexities in modeling multiple states and quantifying entropy. Our overall goal is to elucidate the role of entropy in substrate specificity and catalysis, aiming to provide a more comprehensive thermodynamic understanding of enzyme function. We answer these questions using experimental perturbation, machine learning, and bioinformatics.
+Leveraging machine learning, bioinformatics, and experimental approaches, we aim to identify how conformational ensembles, considering the enthalpic and entropic portion, impact binding specificity and catalysis. Our overall goal is to elucidate the role of entropy in substrate specificity and catalysis, aiming to provide a more comprehensive thermodynamic understanding of enzyme function. 
+
 
 <img src="/static/img/other/ML_Kinases.jpg" alt="ML_Kinases" style="width: 100%; ; margin: 0 auto;">
 
