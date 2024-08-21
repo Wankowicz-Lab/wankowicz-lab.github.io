@@ -17,7 +17,7 @@ group: research
 
 <br>
 
-### Developing Novel Algorithms to Detect Conformational Ensembles *hidden* in experimental data
+### Developing novel algorithms to detect conformational ensembles *hidden* in experimental data
 
 <img src="/static/img/other/ML_Ensemble.jpg" alt="Algorithm Development" style="width: 100%; margin: 0 auto;">
 
@@ -47,7 +47,6 @@ Most conclusions about protein function, binding affinity predictions, and mutat
 
 
 ### Deciphering the structural contributions of entropy and enthalpy in binding affinity and catalysis
-
 
 
 Ligand specificity is foundational to the biochemistry of living organisms. However, our atomistic understanding of enzyme specificity is driven primarily by static interactions between a substrate and catalytic residues, ignoring the critical component of protein dynamics. While functional residues almost always decrease their dynamics upon binding or during catalysis (reducing entropy), the rest of the **enzyme scaffold** can increase or decrease dynamics, leading to different entropic consequences for the entire enzyme. We are especially interested in probing this question in kinases.  
