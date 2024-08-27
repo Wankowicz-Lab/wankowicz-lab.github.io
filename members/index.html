@@ -14,7 +14,7 @@ group: members
         <hr>
         <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
         <div id="{{member.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
-            <div class="col-sm-4">
+            <div class="col-sm-3">
                 <img class="img-fluid" src="{{member.image}}" {% if member.altimage %} onmouseover="this.src='{{member.altimage}}';" onmouseout="this.src='{{member.image}}';" {% endif %} alt="{{member.name}}"; width="365"; height="365"><br>
                 <strong>{{member.name}}</strong> <br>
                 {% if member.pronouns %}
@@ -46,7 +46,7 @@ group: members
                   <a href="http://github.com/{{member.github}}"> {{member.github}} </a> <br>
                 {% endif %}
             </div>
-            <div class="col-sm-8">
+            <div class="col-sm-9">
                 {{member.description | markdownify}}
             </div>
         </div>
