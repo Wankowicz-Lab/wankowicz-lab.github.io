@@ -3,7 +3,7 @@ name: Stephanie Wankowicz, Ph.D.
 startdate: [2024-08-01]
 enddate: []
 image: /static/img/members/Wankowicz.jpg
-position: PI
+position: Principal Investigator
 timeline_positions: []
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers
