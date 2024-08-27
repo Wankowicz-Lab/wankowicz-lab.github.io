@@ -11,7 +11,7 @@ pronouns: he/him
 scholar: WJ9lxYMAAAAJ
 #website: https://stephaniewankowicz.github.io/
 #twitter: stephanie_mul
-linkedin: vratins10/
+linkedin: vratins10
 github: vratins
 #orcid: 0000-0002-4225-7459
 
