@@ -14,7 +14,7 @@ group: members
         <hr>
         <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
         <div id="{{member.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
-            <div class="col-sm-3">
+            <div class="col-sm-4">
                 <img class="img-fluid" src="{{member.image}}" {% if member.altimage %} onmouseover="this.src='{{member.altimage}}';" onmouseout="this.src='{{member.image}}';" {% endif %} alt="{{member.name}}"; width="365"; height="365"><br>
                 <strong>{{member.name}}</strong> <br>
                 {% if member.pronouns %}
@@ -50,14 +50,15 @@ group: members
                   <a href="http://github.com/{{member.github}}"> {{member.github}} </a> <br>
                 {% endif %}
             </div>
-            <div class="col-sm-9">
+            <div class="col-sm-8">
                 {{member.description | markdownify}}
             </div>
         </div>
 {% endfor %}
 
-<!-- Display the remaining members in alphabetical order -->
-{% assign non_pi_members = site.members | reject: "position", "Principal Investigator" | sort: "name" %}
+<!-- Display the remaining members in alphabetical order, excluding the PI -->
+{% assign pi_name = pi[0].name %}
+{% assign non_pi_members = site.members | reject: "name", pi_name | sort: "name" %}
 {% for member in non_pi_members %}
 {% unless member.enddate == empty or member.startdate.size != member.enddate.size %}
 {% continue %}
