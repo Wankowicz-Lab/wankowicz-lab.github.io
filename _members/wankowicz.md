@@ -1,5 +1,5 @@
 ---
-name: Stephanie Wankowicz, Ph.D.
+name:  Stephanie Wankowicz, Ph.D.
 startdate: [2024-08-01]
 enddate: []
 image: /static/img/members/Wankowicz.jpg
