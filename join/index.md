@@ -5,34 +5,30 @@ group: join
 ---
 
 # Join the Wankowicz Lab
-Our lab welcomes applicants from any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status. Furthermore, we are committed to maintaining a supportive and collaborative lab environment.
 
-Send Dr. Wankowicz an <a href="mailto:stephanie.wankowicz@vanderbilt.edu">email</a> with your CV and specifying the area(s) of the lab you are interested in working in. <br>
+Our lab welcomes applicants from any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status. We are committed to maintaining a supportive and collaborative lab environment.
 
-##### Read more about [our lab compact and philosophy.](/philosophy/)
+##### Read more about [our lab philosophy.](/philosophy/)
 
-We are always in the market for motivated and talented people, even if we do not have an open position currently advertised. We are interested in engaging with you in a conversation about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across a wide range of computational and experimental techniques. If interested please send your CV/Resume to [Dr. James Fraser](/contact).
+We are always in the market for motivated and talented people, even if we do not have an advertised open position. We are interested in conversing with you about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across various computational and experimental techniques. If interested, please send your CV/Resume to Dr. Stephanie Wankowicz <a href="mailto:stephanie.wankowicz@vanderbilt.edu">email</a>.
 
-<!-- Currently we have **open positions** for people with the following skills:
-[Specialist](https://aprecruit.ucsf.edu/JPF03325) who will engage in research projects and also manage daily wet lab operations. -->
 <br/>
 
 ## Graduate Students
 
-At Vanderbilt, students can apply to a single [graduate program]() and do not apply directly to labs. The landscape of life science PhD programs and their admissions processes can be incredibly opaque, so Hersh Bhargava and I wrote a [guide on Applying to Quantitative Biology PhD Programs](https://hershbhargava.com/writing/applying-to-phd-programs/). 
+At Vanderbilt, students can apply to multiple [graduate programs](https://medschool.vanderbilt.edu/bret/prospective-students/) and do not apply directly to labs. 
 
-Once students are admitted to Vanderbilt, during the first year of a Ph.D. program, students rotate through ~3 labs prior to deciding on a thesis lab. Our lab is usually open for rotation students every quarter and will generally have room for 1-2 new graduate students (regardless of program affiliation) per year.
+Once students are admitted to Vanderbilt, during the first year of a Ph.D. program, students rotate through ~4 labs prior to deciding on a thesis lab. Our lab is open for rotation students wanting to work on experimental or computational approaches and will generally have room for 1-2 new graduate students (regardless of program affiliation) per year. We are happy to have students who have no background in computational or experimental approaches.
 
-As the 4th rotation period ends, we will talk with the year's rotation students (at least those who remain interested!) about joining the lab.  During this period, we encourage students to keep talking to the PI and lab members about what kind of project they might want to shape. We consider project fit, scientific chemistry, and alignment with lab values. Because we are a member of multiple graduate programs with different policies and timings for final lab decision making, we cannot make any final commitments until the end of the Spring Quarter to ensure all rotations students are given consideration.
+As the 4th rotation period ends, we will talk with the year's rotation students (at least those who remain interested!) about joining the lab.  During this period, we encourage students to keep talking to the PI and lab members about what kind of project they might want to shape. We consider project fit, scientific chemistry, and alignment with lab values. 
 
 ## Undergraduate Students
 
-In the past, our lab has enjoyed having foreign exchange students, interns, sabbatical visitors from academia and industry, and post-bac research specialists in the lab.  We are open to other arrangements as well. As we expect people to be fairly compensated for their work by their home institution or by us, we do not have volunteer positions available. 
-
+We currently have room for 1-2 undergraduate students. Students are expected to commit to working at least 10 hours a week. We have projects ranging from new machine learning algorithms and bioinformatic analysis to protein expression and characterization. If interested, please send your CV/Resume to Dr. Stephanie Wankowicz <a href="mailto:stephanie.wankowicz@vanderbilt.edu">email</a> <br>.
 
 ## Postdoctoral Fellows
 
-Inquiries about Postdoctoral positions should be emailed directly to [Dr. James Fraser](/contact). We set our postdoctoral fellow compensation to the [Stanford rates](https://postdocs.stanford.edu/funding-levels-and-guidelines) **and** encourage candidates to explore applying for extramural fellowships to support their research.
+Inquiries about Postdoctoral positions should be emailed directly to Dr. Stephanie Wankowicz <a href="mailto:stephanie.wankowicz@vanderbilt.edu">email</a>. We encourage candidates to explore applying for extramural fellowships to support their research.
 
 
 
