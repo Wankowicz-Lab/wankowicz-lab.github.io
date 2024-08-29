@@ -18,13 +18,13 @@ We are always in the market for motivated and talented people, even if we do not
 
 At Vanderbilt, students can apply to multiple [graduate programs](https://medschool.vanderbilt.edu/bret/prospective-students/) and do not apply directly to labs. 
 
-Once students are admitted to Vanderbilt, during the first year of a Ph.D. program, students rotate through ~4 labs prior to deciding on a thesis lab. Our lab is open for rotation students wanting to work on experimental or computational approaches and will generally have room for 1-2 new graduate students (regardless of program affiliation) per year. We are happy to have students who have no background in computational or experimental approaches.
+Once students are admitted to Vanderbilt, during the first year of a Ph.D. program, students rotate through ~4 labs prior to deciding on a thesis lab. Our lab is open for rotation students wanting to work on experimental or computational approaches and will generally have room for 1-2 new graduate students (regardless of program affiliation) per year. We are happy to have students who have no background in computational or experimental approaches.  We encourage students to keep talking to the PI and lab members about what kind of project they might want to shape. We consider project fit, scientific chemistry, and alignment with lab values. 
 
-As the 4th rotation period ends, we will talk with the year's rotation students (at least those who remain interested!) about joining the lab.  During this period, we encourage students to keep talking to the PI and lab members about what kind of project they might want to shape. We consider project fit, scientific chemistry, and alignment with lab values. 
 
 ## Undergraduate Students
 
 We currently have room for 1-2 undergraduate students. Students are expected to commit to working at least 10 hours a week. We have projects ranging from new machine learning algorithms and bioinformatic analysis to protein expression and characterization. If interested, please send your CV/Resume to Dr. Stephanie Wankowicz <a href="mailto:stephanie.wankowicz@vanderbilt.edu">email</a> <br>.
+
 
 ## Postdoctoral Fellows
 
