@@ -11,7 +11,7 @@ pronouns: he/him
 scholar: WJ9lxYMAAAAJ
 #website: 
 #twitter: 
-linkedin: www.linkedin.com/in/adrianihanson
+linkedin: adrianihanson
 #github: vratins
 #orcid: 0000-0002-4225-7459
 
