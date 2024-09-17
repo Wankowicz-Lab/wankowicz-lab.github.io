@@ -6,6 +6,7 @@ pub_date: "2024-07-01" #Date of publication. Change from Biorxiv date to Journal
 image: "/static/img/pub/2023_wankowicz_3.jpg" 
 pmid: "38958015"
 pmcid: 
+pdf: "10.1107/S2052252524005098"
 chemrxiv: 2023-ggd1w-v3
 github:
 links:
