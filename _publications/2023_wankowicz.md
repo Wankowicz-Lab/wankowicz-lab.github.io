@@ -4,8 +4,7 @@ authors: "**Wankowicz SA**, Ravikumar A, Sharma S, Riley B, Raju A, Flowers J, H
 journal: eLife
 pub_date: "2024-06-21" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/img/pub/2023_wankowicz.jpg" #Minimum dimensions TBD
-pmid: "38904665"
-pmcid: 
+pmid: "38904665" 
 biorxiv_version: "2023.06.28.546963v3"
 github:
 - description: qFit
