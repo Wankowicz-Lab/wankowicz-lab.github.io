@@ -71,7 +71,7 @@ group: publications
 
 		<!-- PDF -->
 		{% if publication.journal %}
-		<li><a href="{{publication.pdf}}" title = "PDF for {{publication.title}} (opens in new tab)" target="_blank"> Full Text</a></li>
+		<li>Full Text: <a href="https://doi.org/{{publication.pdf}}" title="Paper: {{publication.pdf}} (opens in new tab)" target="_blank"> {{publication.pdf}}</a></li>
 		{% endif %}
 
 		<!--OSF - optional -->
