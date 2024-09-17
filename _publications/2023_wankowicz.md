@@ -5,6 +5,7 @@ journal: eLife
 pub_date: "2024-06-21" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/img/pub/2023_wankowicz.jpg" #Minimum dimensions TBD
 pmid: "38904665" 
+pdf: "10.7554/eLife.90606.2.sa3"
 biorxiv_version: "2023.06.28.546963v3"
 github:
 - description: qFit
