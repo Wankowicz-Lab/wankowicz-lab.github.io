@@ -25,7 +25,7 @@ pdbs:
 pdf: ""
 biorxiv_version: "2024.09.20.613996v1"
 github:
-- description: qFit
+- description: 
   url: ExcitedStates/qfit-3.0
 links:
 - name: Fraser lab @ UCSF
