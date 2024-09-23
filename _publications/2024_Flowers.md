@@ -13,4 +13,6 @@ github:
 links:
 - name: Fraser lab @ UCSF
   url: https://fraserlab.com/
+- name: "Renlso lab @ UCSF"
+  url: "https://pharm.ucsf.edu/renslo"
 ---
