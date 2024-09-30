@@ -9,7 +9,6 @@ pmcid: 'PMC9084896'
 biorxiv:
 pdf: "10.7554/eLife.74114"
 biorxiv_version: "2021.09.21.461269v1"
-pdf: "http://cdn.fraserlab.com/publications/2022_wankowicz.pdf"
 github:
 - code: 'qFit 3'
   url: ExcitedStates/qfit-3.0
