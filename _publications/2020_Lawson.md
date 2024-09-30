@@ -7,7 +7,6 @@ image: '/static/img/pub/2020_lawson.jpg'
 pmid: '33542514'
 pmcid: 'PMC7864804'
 biorxiv: '2020.06.12.147033'
-pdf: 'http://cdn.fraserlab.com/publications/2021_lawson.pdf'
 zenodo:
 - code: '4148789'
   description: '2019 EMDataResource Model Challenge Dataset'
