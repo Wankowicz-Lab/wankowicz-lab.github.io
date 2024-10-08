@@ -7,7 +7,7 @@ position: Principal Investigator
 timeline_positions: []
 #subsequent:  update once you become an alumnus
 pronouns: she/her/hers
-email: stephanie.wankowicz (@) vanderbilt.edu
+email: Stephanie @ wankowiczlab.com
 scholar: WJ9lxYMAAAAJ
 website: https://stephaniewankowicz.github.io/
 UCSF:
