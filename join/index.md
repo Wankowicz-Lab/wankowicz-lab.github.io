@@ -1,5 +1,5 @@
 ---
-title: Join the Fraser Lab
+title: Join the Wankowicz Lab
 layout: default
 group: join
 ---
@@ -10,7 +10,7 @@ Our lab welcomes applicants from any race, ethnicity, religion, national origin,
 
 ##### Read more about [our lab philosophy.](/philosophy/)
 
-We are always in the market for motivated and talented people, even if we do not have an advertised open position. We are interested in conversing with you about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across various computational and experimental techniques. If interested, please send your CV/Resume to Dr. Stephanie Wankowicz <a href="mailto:stephanie.wankowicz@vanderbilt.edu">email</a>.
+We are always in the market for motivated and talented people, even if we do not have an advertised open position. We are interested in conversing with you about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across various computational and experimental techniques. If interested, please send your CV/Resume to Dr. Stephanie Wankowicz <a href="mailto:stephanie@wankowiczlab.com">email</a>.
 
 <br/>
 
@@ -23,7 +23,7 @@ Once students are admitted to Vanderbilt, during the first year of a Ph.D. progr
 
 ## Undergraduate Students
 
-We currently have room for 1-2 undergraduate students. Students are expected to commit to working at least 10 hours a week. We have projects ranging from new machine learning algorithms and bioinformatic analysis to protein expression and characterization. If interested, please send your CV/Resume to Dr. Stephanie Wankowicz <a href="mailto:stephanie.wankowicz@vanderbilt.edu">email</a> <br>.
+We currently have room for 1-2 undergraduate students. Students are expected to commit to working at least 10 hours a week. We have projects ranging from new machine learning algorithms and bioinformatic analysis to protein expression and characterization. If interested, please send your CV/Resume to Dr. Stephanie Wankowicz <a href="mailto:stephanie@wankowiczlab.com">email</a> <br>.
 
 
 ## Postdoctoral Fellows
