@@ -14,11 +14,12 @@ We are always in the market for motivated and talented people, even if we do not
 
 <br/>
 
+
 ## Graduate Students
 
 At Vanderbilt, students can apply to multiple [graduate programs](https://medschool.vanderbilt.edu/bret/prospective-students/) and do not apply directly to labs. 
 
-Once students are admitted to Vanderbilt, during the first year of a Ph.D. program, students rotate through ~4 labs prior to deciding on a thesis lab. Our lab is open for rotation students wanting to work on experimental or computational approaches and will generally have room for 1-2 new graduate students (regardless of program affiliation) per year. We are happy to have students who have no background in computational or experimental approaches.  We encourage students to keep talking to the PI and lab members about what kind of project they might want to shape. We consider project fit, scientific chemistry, and alignment with lab values. 
+Once students are admitted to Vanderbilt, during the first year of a Ph.D. program, students rotate through ~4 labs prior to deciding on a thesis lab. Our lab is open for rotation students wanting to work on experimental or computational approaches and will generally have room for 1-2 new graduate students (regardless of program affiliation) per year. We encourage students to keep talking to the PI and lab members about what kind of project they might want to shape. We consider project fit, scientific chemistry, and alignment with lab values. 
 
 
 ## Undergraduate Students
