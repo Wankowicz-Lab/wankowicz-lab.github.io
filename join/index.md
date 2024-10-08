@@ -27,7 +27,7 @@ We currently have room for 1-2 undergraduate students. Students are expected to 
 
 ## Postdoctoral Fellows
 
-Inquiries about Postdoctoral positions should be emailed directly to <a href="mailto:stephanie@wankowiczlab.com">Dr. Stephanie Wankowicz</a>.. We encourage candidates to explore applying for extramural fellowships to support their research.
+Inquiries about Postdoctoral positions should be emailed directly to <a href="mailto:stephanie@wankowiczlab.com">Dr. Stephanie Wankowicz</a>. We encourage candidates to explore applying for extramural fellowships to support their research.
 
 
 
