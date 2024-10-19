@@ -12,7 +12,7 @@ group: philosophy
 <div style="margin-top: 50px;">
 </div>
 
-<ol font-size: 1.3em;">
+<ol style="font-family: 'Merriweather', serif; font-size: 1.3em;">
     <li>Be kind, inclusive, and collaborative – support people personally and professionally. We aim for the lab to be a welcoming and inclusive environment where everyone can be their best selves.</li>
 
     <br>
