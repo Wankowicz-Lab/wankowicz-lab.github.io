@@ -12,7 +12,7 @@ group: philosophy
 <div style="margin-top: 50px;">
 </div>
 
-<ol style="font-family: 'Merriweather', serif; font-size: 1.3em;">
+#<ol style="font-family: 'Merriweather', serif; font-size: 1.3em;">
     <li>Be kind, inclusive, and collaborative – support people personally and professionally. We aim for the lab to be a welcoming and inclusive environment where everyone can be their best selves.</li>
 
     <br>
@@ -26,4 +26,4 @@ group: philosophy
     <br>
     
     <li>Be open – the best science is open science. We are building on centuries of science, and we want others to build on our science for centuries. To achieve this, we must openly share our scientific discoveries, code, and data.</li>
-</ol>
+#</ol>
