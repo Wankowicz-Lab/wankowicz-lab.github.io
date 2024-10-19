@@ -10,13 +10,17 @@
   link: "/members"
   group: members
 
+- name: publications
+  link: "/publications"
+  group: publications
+
 - name: philosophy
   link: "/philosophy"
   group: philosophy
 
-- name: publications
-  link: "/publications"
-  group: publications
+- name: reviews
+  links: "/reviews"
+  group: reviews
 
 - name: join
   link: "/join"
