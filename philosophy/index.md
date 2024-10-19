@@ -7,12 +7,14 @@ group: philosophy
 <div style="margin-top: 80px;">
 </div>
 
-## Our goal is to become the best scientists that we can be, believing that excellence in science will naturally follow. To achieve this, we dedicate ourselves to the following guiding principles.
+## Our Mission
+
+Our goal is to become the best scientists that we can be, believing that excellence in science will naturally follow. To achieve this, we dedicate ourselves to the following guiding principles.
 
 <div style="margin-top: 50px;">
 </div>
 
-<ol style="font-family: 'Merriweather', serif; font-size: 1.3em;">
+<ol style="font-family: Arial, sans-serif; font-size: 1.3em;">
     <li>Be kind, inclusive, and collaborative – support people personally and professionally. We aim for the lab to be a welcoming and inclusive environment where everyone can be their best selves.</li>
 
     <br>
