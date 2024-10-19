@@ -12,7 +12,10 @@ Our lab welcomes applicants from any race, ethnicity, religion, national origin,
 
 We are always in the market for motivated and talented people, even if we do not have an advertised open position. We are interested in conversing with you about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across various computational and experimental techniques. If interested, please send your CV/Resume to <a href="mailto:stephanie@wankowiczlab.com">Dr. Stephanie Wankowicz</a>.
 
-<br/>
+
+## Postdoctoral Fellows
+
+Inquiries about Postdoctoral positions should be emailed directly to <a href="mailto:stephanie@wankowiczlab.com">Dr. Stephanie Wankowicz</a>. We encourage candidates to explore applying for extramural fellowships to support their research.
 
 
 ## Graduate Students
@@ -26,9 +29,7 @@ Once students are admitted to Vanderbilt, during the first year of a Ph.D. progr
 
 We currently have room for 1-2 undergraduate students. Students are expected to commit to working at least 10 hours a week. We have projects ranging from new machine learning algorithms and bioinformatic analysis to protein expression and characterization. If interested, please send your CV/Resume to <a href="mailto:stephanie@wankowiczlab.com">Dr. Stephanie Wankowicz</a>.
 
-## Postdoctoral Fellows
 
-Inquiries about Postdoctoral positions should be emailed directly to <a href="mailto:stephanie@wankowiczlab.com">Dr. Stephanie Wankowicz</a>. We encourage candidates to explore applying for extramural fellowships to support their research.
 
 
 
