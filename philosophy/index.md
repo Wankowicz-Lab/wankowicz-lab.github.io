@@ -9,7 +9,9 @@ group: philosophy
 
 ## Our Mission
 
+<ol style="font-family: Arial, sans-serif; font-size: 1.3em;">
 Our goal is to become the best scientists that we can be, believing that excellence in science will naturally follow. To achieve this, we dedicate ourselves to the following guiding principles.
+</ol>
 
 <div style="margin-top: 50px;">
 </div>
