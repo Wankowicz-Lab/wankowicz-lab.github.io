@@ -16,7 +16,7 @@ Our goal is to become the best scientists that we can be, believing that excelle
 <div style="margin-top: 50px;">
 </div>
 
-<ol style="font-family: Arial, sans-serif; font-size: 1.3em;">
+<ol style="font-family: Arial, sans-serif; font-size: 1.1em;">
     <li>Be kind, inclusive, and collaborative – support people personally and professionally. We aim for the lab to be a welcoming and inclusive environment where everyone can be their best selves.</li>
 
     <br>
