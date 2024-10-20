@@ -26,7 +26,7 @@ exclude:
 
 collections:
         affiliates:
-                output: true
+                output: false
         members:
                 output: true
         publications:
@@ -34,14 +34,14 @@ collections:
         reviews:
                 output: true
         alumni:
-                output: true
+                output: false
         sep:
-                output: true
+                output: false
         visitors:
                 output: true
         undergrads:
                 output: true
         pets:
-                output: true
+                output: false
         tags:
-                output: true
+                output: false
