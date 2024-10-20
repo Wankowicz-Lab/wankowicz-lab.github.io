@@ -19,7 +19,7 @@
   group: philosophy
 
 - name: reviews
-  links: "/reviews"
+  link: "/reviews"
   group: reviews
 
 - name: join
