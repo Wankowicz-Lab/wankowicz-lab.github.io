@@ -24,7 +24,7 @@ comments publicly.
 	<div class="row" style="padding-top: 60px; margin-top: -60px;" id="{{review.date}}">
 	<div><h5>{{ review.title | markdownify | remove: '<p>' | remove: '</p>' | strip }}.<br></h5>
 	<h6>{{ review.authors | markdownify | remove: '<p>' | remove: '</p>' | strip}}.</h6><br>
-	Reviewed by: <strong>{{ review.reviewers | markdownify | remove: '<p>' | remove: '</p>' | strip }}.</strong><br><br>
+	Reviewed by: <h6>{{ review.reviewers | markdownify | remove: '<p>' | remove: '</p>' }}</h6> 		
 	</div>
 	{% if review.abstract %}
 	<div>{{ review.abstract | markdownify | remove: '<p>' | remove: '</p>' }}</div>
