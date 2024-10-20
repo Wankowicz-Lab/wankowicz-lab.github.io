@@ -9,7 +9,4 @@ peer-review:
 - biorxiv_version: "2020.08.19.256909v1"
   disqus: "2c1buq7"
 
-published:
-- pmid: "33139928"
-  pdf: "http://cdn.fraserlab.com/reviews/2020_zhang.pdf"
 ---
