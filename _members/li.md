@@ -18,6 +18,6 @@ pronouns: she/her
 description: "Carol is an undergraduate student at Vanderbilt University, double majoring in Neuroscience and Computer Science. She has a strong interest in computational modeling for structural biology and envisions applying neuroscience-inspired techniques to enhance and understand AI models. 
 
 
-When she's not working, you can find her dancing or trying out every sport under the sun!"
 
+When she's not working, you can find her dancing or trying out every sport under the sun!"
 ---
