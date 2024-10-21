@@ -8,7 +8,7 @@ timeline_positions: []
 #subsequent:  update once you become an alumnus
 pronouns: he/him
 #email: 
-scholar: WJ9lxYMAAAAJ
+#scholar: WJ9lxYMAAAAJ
 #website: 
 #twitter: 
 linkedin: vratins10
