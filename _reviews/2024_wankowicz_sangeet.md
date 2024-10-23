@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning-Enhanced Drug Discovery for BACE1: A Novel Approach to Alzheimer’s Therapeutics"
+title: "Machine Learning-Enhanced Drug Discovery for BACE1: A Novel Approach to Alzheimers Therapeutics"
 date: '2024-10-23'
 authors: "Sangett S"
 reviewers: "**Wankowicz S**
