@@ -7,6 +7,7 @@ image: '/static/img/pub/2020_gordon_jang_bouhaddou_xu_obernier_white_omeara_reze
 pmid: '32353859'
 pmcid: PMC7431030
 biorxiv: '2020.03.22.002386'
+pdf: '10.1038/s41586-020-2286-9'
 github:
 - description: gtex/gnomAD figure scripts
   url: fraser-lab/QCRG_COVID19_Figures
