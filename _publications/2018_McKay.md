@@ -5,7 +5,6 @@ journal: 'Cancer Immunology Research'
 pub_date: '2018-06-01'
 image: '/static/img/pub/2017_McKay.png'
 pmid: '29748390'
-# pmcid: 'PMC#######'
-# biorxiv: 'YYYY.MM.DD.######'
-# pdf: 'http://cdn.fraserlab.com/publications/2020_wankowicz.pdf'
+pdf: '10.1158/2326-6066.CIR-17-0475'
+
 ---
