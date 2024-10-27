@@ -5,8 +5,7 @@ journal: 'Cell Genomics'
 pub_date: '2022-02-01'
 image: '/static/img/pub/2022_Crowdis.png'
 pmid: '36177448'
-doi: 10.1101/2021.07.09.451849
-# pmcid: 'PMC#######'
+doi: '10.1101/2021.07.09.451849'
 biorxiv: '2021.07.09.451849v1'
 # pdf: 'http://cdn.fraserlab.com/publications/2020_wankowicz.pdf'
 ---
