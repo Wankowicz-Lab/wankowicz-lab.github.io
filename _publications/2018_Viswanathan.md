@@ -5,7 +5,6 @@ journal: 'Cell'
 pub_date: '2018-07-01'
 image: '/static/img/pub/2018_Viswanathan.png'
 pmid: '26320810'
-# pmcid: 'PMC#######'
-# biorxiv: 'YYYY.MM.DD.######'
-# pdf: 'http://cdn.fraserlab.com/publications/2020_wankowicz.pdf'
+pdf: '10.1016/j.cell.2018.05.036'
+
 ---
