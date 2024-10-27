@@ -6,7 +6,7 @@ pub_date: '2020-06-19'
 image: '/static/img/pub/2020_Newberry.png'
 pmid: '32786289'
 biorxiv: '2020.05.01.072884'
-pdf: 'https://www.biorxiv.org/content/biorxiv/early/2020/05/03/2020.05.01.072884.full.pdf'
+pdf: '10.1021/acschembio.0c00339'
 links:
   - name: 2018 PUBS
     url: https://kampmannlab.ucsf.edu/pubs-2018
