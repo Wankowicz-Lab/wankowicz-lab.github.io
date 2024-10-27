@@ -5,7 +5,6 @@ journal: 'Cell Reports'
 pub_date: '2019-01-01'
 image: '/static/img/pub/2019_Hwang.png'
 pmid: '31747605'
-# pmcid: 'PMC#######'
-# biorxiv: 'YYYY.MM.DD.######'
-# pdf: '[http://cdn.fraserlab.com/publications/2020_wankowicz.pdf](https://www.nature.com/articles/bjc2014633.pdf)'
+pdf: '10.1016/j.celrep.2019.10.068'
+
 ---
