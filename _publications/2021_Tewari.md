@@ -7,5 +7,6 @@ image: '/static/img/pub/2021_Tewari.png'
 pmid: '34496240'
 # pmcid: 'PMC#######'
 # biorxiv: 'YYYY.MM.DD.######'
-# pdf: '[http://cdn.fraserlab.com/publications/2020_wankowicz.pdf](https://www.nature.com/articles/bjc2014633.pdf)'
+pdf: '10.1016/j.celrep.2021.109665'
+
 ---
