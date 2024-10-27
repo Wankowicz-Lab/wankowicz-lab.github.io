@@ -4,7 +4,7 @@ authors: "Flowers J, Echols N, Correy G, Jaishankar P, Togo T, Renslo AR, van de
 #journal: 
 pub_date: "2024-09-23" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/img/pub/2024_flowers.jpg" #Minimum dimensions TBD
-pmid: "" 
+pmid: 
 pdbs:
   - "7HHS"
   - "7HHT"
