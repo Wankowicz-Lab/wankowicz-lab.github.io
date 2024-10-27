@@ -5,7 +5,6 @@ journal: 'Clinical Cancer Research'
 pub_date: '2018-01-01'
 image: '/static/img/pub/2018_Sonpavde.png'
 pmid: '29706503'
-# pmcid: 'PMC#######'
-# biorxiv: 'YYYY.MM.DD.######'
+pdf: '10.1016/j.clgc.2018.03.016'
 
 ---
