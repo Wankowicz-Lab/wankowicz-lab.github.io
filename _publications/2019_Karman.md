@@ -5,7 +5,6 @@ journal: 'Clinical Cancer Research'
 pub_date: '2019-09-01'
 image: '/static/img/pub/2019_Kamran.png'
 pmid: '31253631'
-# pmcid: 'PMC#######'
-# biorxiv: 'YYYY.MM.DD.######'
-# pdf: '[http://cdn.fraserlab.com/publications/2020_wankowicz.pdf](https://www.nature.com/articles/bjc2014633.pdf)'
+pdf: '10.1158/1078-0432.CCR-19-0908'
+
 ---
