@@ -4,6 +4,7 @@ authors: "Lawson CL, Kryshtafovych A, Adams PD, Afonine PV, Baker ML, Barad BA, 
 journal: 'Nature Methods'
 pub_date: '2021-02-04'
 image: '/static/img/pub/2020_lawson.jpg'
+pdf: "10.1038/s41592-020-01051-w"
 pmid: '33542514'
 pmcid: 'PMC7864804'
 biorxiv: '2020.06.12.147033'
