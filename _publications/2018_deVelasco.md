@@ -5,7 +5,6 @@ journal: 'British Journal of Cancer'
 pub_date: '2018-09-01'
 image: '/static/img/pub/2018_deVelasco.png'
 pmid: '29674707'
-# pmcid: 'PMC#######'
-# biorxiv: 'YYYY.MM.DD.######'
-# pdf: 'http://cdn.fraserlab.com/publications/2020_wankowicz.pdf'
+pdf: '10.1038/s41416-018-0064-3'
+
 ---
