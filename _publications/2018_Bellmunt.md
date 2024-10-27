@@ -5,7 +5,6 @@ journal: 'British Journal of Cancer'
 pub_date: '2018-04-01'
 image: '/static/img/pub/2018_Bellmunt.png'
 pmid: '30220708'
-# pmcid: 'PMC#######'
-# biorxiv: 'YYYY.MM.DD.######'
-# pdf: 'http://cdn.fraserlab.com/publications/2020_wankowicz.pdf'
+pdf: '10.1038/s41416-018-0261-0'
+
 ---
