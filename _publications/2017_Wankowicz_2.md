@@ -5,7 +5,6 @@ pub_date: "2017-12-19" #Date of publication. Change from Biorxiv date to Journal
 journal: 'The Journal of Urology'
 image: "/static/img/pub/2017_Wankowicz.png" #Minimum dimensions TBD
 pmid: "29259186"
-doi: 
-links:
+pdf: '10.1016/j.juro.2017.04.102'
 
 ---
