@@ -7,6 +7,7 @@ image: '/static/img/pub/2020_riley.jpg'
 pmid: '33210433'
 pmcid: PMC7737783
 biorxiv: '2020.09.03.280222'
+pdf: '10.1002/pro.4001'
 github:
 - code: 'qFit 3'
   url: ExcitedStates/qfit-3.0
