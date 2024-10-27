@@ -5,7 +5,6 @@ journal: 'The Journal of clinical investigation'
 pub_date: '2018-03-01'
 image: '/static/img/pub/2018_Rodrigues.png'
 pmid: '30382943'
-# pmcid: 'PMC#######'
-# biorxiv: 'YYYY.MM.DD.######'
-# pdf: 'http://cdn.fraserlab.com/publications/2020_wankowicz.pdf'
+pdf: '10.1172/JCI121924'
+
 ---
