@@ -5,6 +5,6 @@ journal: 'Cancer'
 pub_date: '2017-08-01'
 image: '/static/img/pub/2017_Vetterlein.png'
 pmid: '28743155'
-pdf: '10.1002/cncr.30907'
+pdf: '10.1158/2159-8290.CD-16-0960'
 
 ---
