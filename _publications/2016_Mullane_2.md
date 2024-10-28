@@ -5,7 +5,6 @@ pub_date: "2016-12-03" #Date of publication. Change from Biorxiv date to Journal
 journal: 'Current Opinions in Urology'
 image: "/static/img/pub/2016_Mullane2.jpeg" #Minimum dimensions TBD
 pmid: "27584023"
-doi: 
-links:
+pdf: '10.1097/MOU.0000000000000337'
 
 ---
