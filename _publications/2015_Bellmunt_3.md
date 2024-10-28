@@ -5,7 +5,6 @@ journal: 'Annals of Oncology'
 pub_date: '2015-12-01'
 image: '/static/img/pub/2015_Bellmunt.png'
 pmid: '25600565'
-# pmcid: 'PMC#######'
-# biorxiv: 'YYYY.MM.DD.######'
-pdf: '[http://cdn.fraserlab.com/publications/2020_wankowicz.pdf](https://www.nature.com/articles/bjc2014633.pdf)'
+pdf: '10.1093/annonc/mdv009'
+
 ---
