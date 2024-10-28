@@ -5,7 +5,6 @@ journal: 'PloS One'
 pub_date: '2015-04-01'
 image: '/static/img/pub/2015_Bellmunt_CN.png'
 pmid: '26320810'
-# pmcid: 'PMC#######'
-# biorxiv: 'YYYY.MM.DD.######'
-# pdf: 'http://cdn.fraserlab.com/publications/2020_wankowicz.pdf'
+pdf: '10.1371/journal.pone.0124711'
+
 ---
