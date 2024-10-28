@@ -5,6 +5,6 @@ journal: 'Clinical Genitourinary Cancer'
 pub_date: '2016-01-01'
 image: '/static/img/pub/2016_Sonpavde2.jpg'
 pmid: '27262369'
-# pmcid: 'PMC#######'
-# biorxiv: 'YYYY.MM.DD.######'
+pdf: '10.1016/j.clgc.2016.05.001'
+
 ---
