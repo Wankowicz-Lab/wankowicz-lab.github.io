@@ -5,6 +5,6 @@ journal: 'European Urology'
 pub_date: '2016-01-01'
 image: '/static/img/pub/2016_Sonpavde3.jpeg'
 pmid: '26264159'
-# pmcid: 'PMC#######'
-# biorxiv: 'YYYY.MM.DD.######'
+pdf: '10.1016/j.eururo.2015.07.042'
+
 ---
