@@ -5,7 +5,6 @@ journal: 'British Journal of Cancer'
 pub_date: '2016-06-01'
 image: '/static/img/pub/2016_Bellmunt2.png'
 pmid: '27351382'
-# pmcid: 'PMC#######'
-# biorxiv: 'YYYY.MM.DD.######'
-pdf: 'https://www.nature.com/articles/bjc2016146.pdf'
+pdf: '10.1038/bjc.2016.146'
+
 ---
