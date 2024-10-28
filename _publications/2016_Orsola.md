@@ -5,7 +5,6 @@ journal: 'European Journal of Cancer'
 pub_date: '2016-04-01'
 image: '/static/img/pub/2016_Orsola.png'
 pmid: '27806880'
-# pmcid: 'PMC#######'
-# biorxiv: 'YYYY.MM.DD.######'
-# pdf: '[http://cdn.fraserlab.com/publications/2020_wankowicz.pdf](https://www.nature.com/articles/bjc2014633.pdf)'
+pdf: '10.1016/j.ejca.2016.09.017'
+
 ---
