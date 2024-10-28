@@ -5,7 +5,6 @@ journal: 'British Journal of Cancer'
 pub_date: '2015-03-01'
 image: '/static/img/pub/2015_Orsola.png'
 pmid: '25535728'
-# pmcid: 'PMC#######'
-# biorxiv: 'YYYY.MM.DD.######'
-pdf: '[http://cdn.fraserlab.com/publications/2020_wankowicz.pdf](https://www.nature.com/articles/bjc2014633.pdf)'
+pdf: '10.1038/bjc.2014.633'
+
 ---
