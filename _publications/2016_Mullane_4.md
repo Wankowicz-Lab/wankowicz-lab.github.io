@@ -5,7 +5,6 @@ journal: 'Clinical Genitourinary Cancer'
 pub_date: '2016-11-01'
 image: '/static/img/pub/2016_Mullane_DNADam.png'
 pmid: '26778300'
-# pmcid: 'PMC#######'
-# biorxiv: 'YYYY.MM.DD.######'
-# pdf: '[http://cdn.fraserlab.com/publications/2020_wankowicz.pdf](https://www.nature.com/articles/bjc2014633.pdf)'
+pdf: '10.1016/j.clgc.2015.12.029'
+
 ---
