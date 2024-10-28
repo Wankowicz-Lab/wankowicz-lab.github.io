@@ -5,7 +5,6 @@ journal: 'Nature Medicine'
 pub_date: '2016-12-01'
 image: '/static/img/pub/2016_Cejas.png'
 pmid: '27111282'
-# pmcid: 'PMC#######'
-# biorxiv: 'YYYY.MM.DD.######'
-# pdf: '[http://cdn.fraserlab.com/publications/2020_wankowicz.pdf](https://www.nature.com/articles/bjc2014633.pdf)'
+pdf: '10.1038/nm.4085'
+
 ---
