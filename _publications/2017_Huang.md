@@ -5,7 +5,6 @@ journal: 'Cancer Discovery'
 pub_date: "2017-08-01" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/img/pub/2017_Huang.png" #Minimum dimensions TBD
 pmid: "28515055"
-doi: 
-links:
+pdf: '10.1158/2159-8290.CD-16-0960'
 
 ---
