@@ -18,7 +18,7 @@ By leveraging machine learning, bioinformatics, and experimental approaches, we 
 
   <br>
   <br>
-  We are part of the [Molecular Physiology & Biophysics Department](https://medschool.vanderbilt.edu/mpb/), the [Center for Applied AI in Protein Dynamics](https://www.ai-proteindynamics.org/), and the [Center for Structural Biology](https://www.vanderbilt.edu/csb/) at Vanderbilt University.
+We are part of the [Molecular Physiology & Biophysics Department](https://medschool.vanderbilt.edu/mpb/), the [Biochemistry Department](https://medschool.vanderbilt.edu/biochemistry/) the [Center for Applied AI in Protein Dynamics](https://www.ai-proteindynamics.org/), and the [Center for Structural Biology](https://www.vanderbilt.edu/csb/) at Vanderbilt University.
   <br>
   <br>
  The lab is located in 735 Light Hall.
