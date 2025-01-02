@@ -6,7 +6,7 @@ image: /static/img/members/Chen.jpg
 position: Undergraduate Stduent
 timeline_positions: []
 #subsequent:  update once you become an alumnus
-pronouns: he/him
+pronouns: she/her
 #email: 
 #scholar: WJ9lxYMAAAAJ
 #website: 
