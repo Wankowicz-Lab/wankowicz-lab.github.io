@@ -15,6 +15,10 @@ group: home
 Our goal is to uncover the structural and thermodynamic mechanisms through which entropy governs binding specificity and catalysis. 
   <br>
   <br>
+
+
+
+  
 We are part of the [Molecular Physiology & Biophysics Department](https://medschool.vanderbilt.edu/mpb/), the [Biochemistry Department](https://medschool.vanderbilt.edu/biochemistry/) the [Center for Applied AI in Protein Dynamics](https://www.ai-proteindynamics.org/), and the [Center for Structural Biology](https://www.vanderbilt.edu/csb/) at Vanderbilt University.
   <br>
   <br>
