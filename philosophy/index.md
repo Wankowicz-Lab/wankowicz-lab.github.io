@@ -17,7 +17,7 @@ Our goal is to become the best scientists that we can be, believing that excelle
 </div>
 
 <ol style="font-family: Arial, sans-serif; font-size: 1.1em;">
-    <li>Be kind, inclusive, and collaborative – support people personally and professionally. We aim for the lab to be a welcoming and inclusive environment where everyone can be their best selves.</li>
+    <li>Be kind, welcoming, and collaborative – support people personally and professionally. We aim for the lab to be a welcoming environment where everyone can be their best selves.</li>
 
     <br>
     <li>Be curious – ask questions, talk to other scientists about their work, and read literature outside of your field (and in your field!).</li>
