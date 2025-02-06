@@ -28,8 +28,7 @@ In 2018, Stephanie began her graduate career in the [Biophysics program at UCSF]
 In 2024, Stephanie opened her lab at [Vanderbilt University](https://www.vanderbilt.edu/) in the [Molecular Physiology and Biophysics Department](https://medschool.vanderbilt.edu/mpb/), [Center for AI in Protein Dynamics](https://www.ai-proteindynamics.org/), and [Center for Structural Biology](https://www.vanderbilt.edu/csb/). The lab has two main areas of research: (1) improving the modeling of structural conformational ensembles from X-ray crystallography and cryo-EM data, (2) elucidating the structural mechanisms by which conformational entropy influences binding specificity and catalysis. Find out more about our current research [here](/research).
 
 
-Stephanie is deeply committed to enhancing equity and inclusion in science. At UCSF, she initiated a mentorship program for the [Biophysics program at UCSF](https://biophysics.ucsf.edu/) and founded a DEIJ Journal Club in the [Fraser lab](https://fraserlab.com/tags/deij_jc/). She plans to continue these efforts at Vanderbilt.
-
+Stephanie is deeply committed to making science a welcoming place. At UCSF, she initiated a mentorship program for the [Biophysics program at UCSF](https://biophysics.ucsf.edu/) and founded a DEIJ Journal Club in the [Fraser lab](https://fraserlab.com/tags/deij_jc/). 
 
 Outside of the lab, you are most likely to find Stephanie running on the road or trail!"
 
