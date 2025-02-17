@@ -12,7 +12,7 @@ group: home
   <span style="font-size: 36px; font-weight: bold;">Welcome to the Wankowicz lab.</span>
   <br>
   <br>
-Our goal is to uncover the structural and thermodynamic mechanisms through which entropy governs binding specificity and catalysis. 
+Our goal is to uncover the structural and thermodynamic mechanisms through which entropy governs binding specificity and catalysis. We use machine learning, bioinformatics, and experimental design to probe these questions.
   <br>
   <br>
 
