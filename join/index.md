@@ -27,7 +27,7 @@ Once students are admitted to Vanderbilt, during the first year of a Ph.D. progr
 
 ## Undergraduate Students
 
-We currently have room for 1-2 undergraduate students. Students are expected to commit to working at least 10 hours a week. We have projects ranging from new machine learning algorithms and bioinformatic analysis to protein expression and characterization. If interested, please send your CV/Resume to <a href="mailto:stephanie@wankowiczlab.com">Dr. Stephanie Wankowicz</a>.
+We are currently not accepting any undergraduate students. Students are expected to commit to working at least 10 hours a week. We have projects ranging from new machine learning algorithms and bioinformatic analysis to protein expression and characterization. If interested, please send your CV/Resume to <a href="mailto:stephanie@wankowiczlab.com">Dr. Stephanie Wankowicz</a>.
 
 
 
