@@ -7,7 +7,7 @@ image: "/static/img/pub/2023_Wankowicz_2.png"
 pmid: 
 pmcid: 
 chemrxiv: 2023-9b5k7-v3
-pdf: https://www.nature.com/articles/s41589-025-01879-3
+pdf: 10.1038/s41589-025-01879-3
 github:
 links:
 - name: "Celebratory tweetstorm from Stephanie Wankowicz"
