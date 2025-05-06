@@ -2,7 +2,7 @@
 title: "Advances in uncovering the mechanisms of macromolecular conformational entropy"
 authors: "**Wankowicz SA**, Fraser JS"
 journal: Nature Chemical Biology
-pub_date: "2025-4-24" #Date of publication. Change from Biorxiv date to Journal date once accepted
+pub_date: "2025-04-24" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/img/pub/2023_Wankowicz_2.png" 
 pmid: 40275100
 pmcid: 
