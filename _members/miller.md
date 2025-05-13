@@ -1,6 +1,5 @@
 
 ---
-
 name: Charlotte Miller
 startdate: [2025-05-19]
 enddate: []
