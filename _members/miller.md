@@ -2,7 +2,7 @@
 name: Charlotte Miller
 startdate: [2024-10-20]
 enddate: []
-image: /static/img/members/Li.jpg
+image: /static/img/members/Miller.jpg
 position: Research Assistant
 timeline_positions: []
 #subsequent:  update once you become an alumnus
