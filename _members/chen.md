@@ -1,9 +1,9 @@
 ---
-name: Oliva Chen
+name: Olivia Chen
 startdate: [2024-11-10]
 enddate: []
 image: /static/img/members/Chen.jpg
-position: Undergraduate Stduent
+position: Undergraduate Student
 timeline_positions: []
 #subsequent:  update once you become an alumnus
 pronouns: she/her
