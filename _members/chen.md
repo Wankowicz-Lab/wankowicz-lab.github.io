@@ -18,6 +18,8 @@ pronouns: she/her
 description: "Olivia Chen is an undergraduate Chemistry major at Vanderbilt University. During a summer internship at the Chinese Academy of Science, she refined molecular techniques like DNA extraction and antibody treatments for citrus diseases, raising her interest in microbiology. In her freshman year, she furthered her experience at the University of California, Irvine, under Dr. Seiler, focusing on regenerative medicine and acquiring skills in rat care, perfusion, and H&E staining. 
 Currently passionate about biochemistry and biophysics, Olivia is dedicated to exploring protein dynamics and contributing to the drug industry. 
 
+
+
 Outside the lab, Olivia enjoys rock climbing and photography!"
 
 ---
