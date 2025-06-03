@@ -15,7 +15,7 @@ pronouns: he/him
 #github: 
 #orcid: 
 
-description: "Tonnar Castellano is a Ph.D. candidate in Molecular Physiology and Biophysics. He began his research career in the field of Alzheimer’s disease, where his exposure to the critical role of amyloid proteins sparked a deep interest in protein science. His current work focuses on leveraging deep learning to integrate experimental data for the investigation of conformational heterogeneity in proteins. 
+description: "Tonnar Castellano is a graduate student in the Chemical and Physical Biology Program. He began his research career in the field of Alzheimer’s disease, where his exposure to the critical role of amyloid proteins sparked a deep interest in protein science. His current work focuses on leveraging deep learning to integrate experimental data for the investigation of conformational heterogeneity in proteins. 
 
   
 Outside of the lab, Tonnar enjoys running, playing video games, and disc golf.
