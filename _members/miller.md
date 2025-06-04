@@ -15,7 +15,7 @@ pronouns: she/her
 #github: 
 #orcid: 0000-0002-4225-7459
 
-description: "Charlotte recently graduated from the Georgia Institute of Technology with her B.S. in Chemistry. There, she was a student researcher in the Lieberman lab, where she discovered her passion for structural biology and biophysics. Her previous work attempted to structurally characterize and predict pathogenicity for variants of the glaucoma-related protein myocilin, using techniques such as protein extraction, protein purification, and x-ray crystallography.
+description: "Charlotte recently graduated from the Georgia Institute of Technology with her B.S. in Chemistry. There, she was a student researcher in the [Lieberman lab](https://lieberman.chemistry.gatech.edu/), where she discovered her passion for structural biology and biophysics. Her previous work attempted to structurally characterize and predict pathogenicity for variants of the glaucoma-related protein myocilin, using techniques such as protein extraction, protein purification, and x-ray crystallography.
 
 
 Outside of the lab, she enjoys spending time outdoors, swimming, and baking."
