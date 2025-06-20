@@ -13,7 +13,6 @@ group: contact
 <div class="col-md-4">
 
   <h4>Lab Area </h4>
-  [Molecular Physiology and Biophysics](https://medschool.vanderbilt.edu/mpb/)<br>
   Vanderbilt University<br>
   735 Light Hall<br>
   2215 Garland Avenue<br>
@@ -27,7 +26,6 @@ group: contact
 
   <h4>Stephanie Wankowicz, Ph.D.</h4>
   Assistant Professor<br>
-  [Molecular Physiology and Biophysics](https://medschool.vanderbilt.edu/mpb/)<br>
   Vanderbilt University<br>
   735B Light Hall<br>
   2215 Garland Avenue<br>
