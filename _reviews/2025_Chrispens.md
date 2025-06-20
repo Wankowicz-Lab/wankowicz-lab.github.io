@@ -1,7 +1,7 @@
 ---
 title: "Boltz-2: Towards Accurate and Efficient Binding Affinity Prediction"
 date: "2025-06-20"
-authors: "Saro Passaro, Gabriele Corso, Jeremy Wohlwend, Mateo Reveiz*, Stephan Thaler*, Vignesh Ram Somnath, Noah Getz, Tally Portnoi, Julien Roy, Hannes Stark, David Kwabi-Addo, Dominique Beaini, Tommi Jaakkola, Regina Barzilay"
+authors: "Passaro S, Corso G, Wohlwend J, Reveiz M, Thaler S, Ram Somnath V, Getz N, Portnoi T, Roy J, Stark H, Kwabi-Addo D, Beaini D, Jaakkola T, Barzilay R"
 reviewers: "Chrispens K, Fraser JS, **Wankowicz SA**"
 image: "/static/img/reviews/2025_Passaro.png"
 
