@@ -19,7 +19,7 @@ Our goal is to uncover the structural and thermodynamic mechanisms through which
 
 
   
-We are part of the [Molecular Physiology & Biophysics Department](https://medschool.vanderbilt.edu/mpb/), the [Biochemistry Department](https://medschool.vanderbilt.edu/biochemistry/), the [Center for Applied AI in Protein Dynamics](https://www.vanderbilt.edu/ai-proteindynamics/), and the [Center for Structural Biology](https://www.vanderbilt.edu/csb/) at Vanderbilt University.
+We are part of the [Molecular Physiology & Biophysics Department](https://medschool.vanderbilt.edu/mpb/), the [Biochemistry Department](https://medschool.vanderbilt.edu/biochemistry/), the [Computer Science](https://engineering.vanderbilt.edu/departments/computer-science/), the [Center for Applied AI in Protein Dynamics](https://www.vanderbilt.edu/ai-proteindynamics/), and the [Center for Structural Biology](https://www.vanderbilt.edu/csb/) at Vanderbilt University.
   <br>
   <br>
  The lab is located in 735 Light Hall.
