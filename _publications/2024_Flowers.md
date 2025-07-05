@@ -22,7 +22,7 @@ pdbs:
   - "7HI5"
   - "7HI6"
   - "7HI7" 
-pdf: ""
+pdf: "https://elifesciences.org/articles/103797"
 biorxiv_version: "2024.09.20.613996v1"
 github:
 - description: 
