@@ -18,6 +18,10 @@
   link: "/philosophy"
   group: philosophy
 
+- name: posts
+  link: "/posts"
+  group: posts
+
 - name: reviews
   link: "/reviews"
   group: reviews
