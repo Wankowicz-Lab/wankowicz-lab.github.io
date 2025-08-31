@@ -44,4 +44,4 @@ collections:
         pets:
                 output: false
         tags:
-                output: false
+                output: true
