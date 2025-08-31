@@ -1,7 +1,7 @@
 ---
-title: News from the Fraser Lab
+title: Pots from the Wankowicz Lab
 layout: post
-group: news
+group: posts
 ---
 
 <!-- This loops through the paginated posts -->
@@ -36,9 +36,9 @@ group: news
   {% if page == paginator.page %}
   <li class="active">{{ page }}&nbsp;</li>
   {% elsif page == 1 %}
-  <li><a href="/news/">{{ page }}</a>&nbsp;</li>
+  <li><a href="/posts/">{{ page }}</a>&nbsp;</li>
   {% else %}
-  <li><a href="/news/page{{ page }}">{{ page }}</a>&nbsp;</li>
+  <li><a href="/posts/page{{ page }}">{{ page }}</a>&nbsp;</li>
   {% endif %}
   {% endfor %}
 
