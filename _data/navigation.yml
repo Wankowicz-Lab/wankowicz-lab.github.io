@@ -20,7 +20,7 @@
 
 - name: posts
   link: "/posts"
-  group: posts
+  group: news
 
 - name: reviews
   link: "/reviews"
