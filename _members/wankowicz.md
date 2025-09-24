@@ -25,10 +25,11 @@ Subsequently, Stephanie worked as a computational biologist at the [Dana-Farber 
 In 2018, Stephanie began her graduate career in the [Biophysics program at UCSF](https://biophysics.ucsf.edu/), working in [James Fraser’s lab](https://fraserlab.com/). She developed computational tools to automatically construct conformational ensembles from X-ray crystallography and cryo-EM data, extracting low-populated but biologically important states of macromolecules. Leveraging structural bioinformatics, she uncovered the spatial redistribution of entropy in ligand binding. Her graduate studies were supported by fellowships from [NSF](http://www.nsfgrfp.org/),  [UCSF Discovery Fellows Program](https://graduate.ucsf.edu/discovery-fellows-program), and the [UCSF Antiviral Drug Discovery Program](https://qbi.ucsf.edu/qcrgAViDD). Her work has been recognized through many awards, including D.E. Shaw Computational Chemistry Fellowship, Intersections Science Fellowship, UCSF Mentorship Award, and Penn Rising Stars in Biophysics and Biochemistry.
 
 
-In 2024, Stephanie opened her lab at [Vanderbilt University](https://www.vanderbilt.edu/) in the [Molecular Physiology and Biophysics Department](https://medschool.vanderbilt.edu/mpb/), [Center for AI in Protein Dynamics](https://www.ai-proteindynamics.org/), and [Center for Structural Biology](https://www.vanderbilt.edu/csb/). Learn more about our current research [here](/research).
+In 2024, Stephanie opened her lab at [Vanderbilt University](https://www.vanderbilt.edu/) in the [Molecular Physiology and Biophysics Department](https://medschool.vanderbilt.edu/mpb/), [Center for AI in Protein Dynamics](https://www.ai-proteindynamics.org/), and [Center for Structural Biology](https://www.vanderbilt.edu/csb/). 
 
+She is also a faculty member of the [Biochemistry](https://medschool.vanderbilt.edu/biochemistry/) and [Computer Science Departments](https://engineering.vanderbilt.edu/departments/computer-science/).
 
-Stephanie is deeply committed to making science a welcoming place. At UCSF, she initiated a mentorship program for the [Biophysics program at UCSF](https://biophysics.ucsf.edu/) and co-founded a DEIJ Journal Club in the [Fraser lab](https://fraserlab.com/tags/deij_jc/). 
+Learn more about our current research [here](/research).
 
 
 
