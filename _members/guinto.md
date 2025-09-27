@@ -22,6 +22,8 @@ understanding of molecular dynamics simulations, genetic cloning, PCR, protein e
 purification, and enzymatic assays. His scientific interests include the relationship between protein
 structure and function and the mechanisms behind binding and substrate specificity.
 
+
+
 Outside of the lab, he enjoys running, yoga, and attending various conventions."
 
 ---
