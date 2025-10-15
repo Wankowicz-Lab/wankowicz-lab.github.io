@@ -1,7 +1,7 @@
 ---
 name: Ian Farran
 startdate: [2024-11-11]
-enddate: []
+enddate: [2025-10-15]
 image: /static/img/members/Farran.jpg
 position: Research Technician
 timeline_positions: []
