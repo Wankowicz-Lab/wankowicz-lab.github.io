@@ -1,7 +1,7 @@
 ---
 name: Olivia Chen
 startdate: [2024-11-10]
-enddate: []
+enddate: [2025-12-12]
 image: /static/img/members/Chen.jpg
 position: Undergraduate Researcher
 timeline_positions: []
