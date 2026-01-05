@@ -1,7 +1,7 @@
 ---
 name: Tonnar Castellano
 startdate: [2025-06-01]
-enddate: []
+enddate: [2026-01-05]
 image: /static/img/members/Castellano.jpg
 position: Graduate Student
 timeline_positions: []
