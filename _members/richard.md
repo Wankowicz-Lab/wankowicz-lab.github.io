@@ -1,5 +1,5 @@
 ---
-name: Clay Richard
+name: Clay Richard, PhD
 startdate: [2025-11-20]
 enddate: []
 image: /static/img/members/Richard.jpeg
