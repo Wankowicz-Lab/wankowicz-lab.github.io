@@ -1,7 +1,7 @@
 ---
 name: Ferdiemar Guinto, PhD
 startdate: [2025-10-06]
-enddate: []
+enddate: [2026-02-12]
 image: /static/img/members/guinto.jpg
 position: Lab Manager
 timeline_positions: []
