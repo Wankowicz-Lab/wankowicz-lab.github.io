@@ -1,5 +1,5 @@
 ---
-name:  Mingbin Yuan, Ph.D.
+name:  Mingbin Yuan, PhD
 startdate: [2025-04-20]
 enddate: []
 image: /static/img/members/Yuan.jpg
